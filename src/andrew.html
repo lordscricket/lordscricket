@@ -1,0 +1,70 @@
+---
+title: "Lords Cricket Club, Adelaide SA"
+layout: "base.html"
+---
+
+<div class="container">
+    <div class="row">
+        <div class="col-8">
+						<div style="text-align: center;">
+  <img src="/img/header.png" alt="LordsCricket banner with green balls, maximums and maximum carnage"> </div>
+            <h1>About Lords Cricket</h1>
+            <p>
+						Green Ball cricket is fun!
+            </p>
+            <h4>About the site</h4>
+            <p>
+                The website front-end is built with.. <em>Polyglot Tech Blog</em> — a blog starter template using <a style='font-style: italic; font-weight: bold;'
+                    typeof="SoftwareApplication" href="https://www.11ty.dev/" target="_blank"><span
+                        property="name"> 11ty</span></a>  site generator.
+                See <a href="https://gitlab.com/florent_tassy/polyglot-tech-blog"
+                    target="_blank">GitLab</a> for nerdy stuff.
+            </p>
+						<p>
+								The backend (including the scorer, all stats; worms; ball-by-ball viewer et. al.) is managed by <a href='/peter'>Peter W</a> and he is to blame for your batting average looking worse than you expect. The front-end is managed by <a href='/joshua'> Joshua M</a> and he is to blame for this page.
+						</p>
+						<p><a href='/404'>.</a></p>
+            <h5>Credits</h5>
+            this 11ty template (<a href='https://gitlab.com/florent_tassy/polyglot-tech-blog'>Polyglot Tech Blog</a>) uses:
+            <ul>
+                <li>
+A code base derived from
+                        <span typeof="Person" resource="https://github.com/NikitaZanella/">
+                            <span property="name">
+                                N. Zanella</span></span>'s
+                        <span typeof="SoftwareSourceCode">
+                            <a href="https://github.com/NikitaZanella/11ty-SASS" property="codeRepository">
+                                11ty-SASS
+                            </a>
+                        </span> starter
+                </li> <li>
+                    Icons from <a href="https://jam-icons.com/">jam-icons.com</a> and <a
+                            href="https://simpleicons.org/">simpleicons.org</a> found on <a
+                            href="https://icongr.am/">icongram</a>
+                </li> <li>
+Logo (depreciated) derived from
+                        <span typeof="Person" resource="http://inipagi.com/">
+                            <a href="http://inipagi.com/">
+                                <span property="name">
+                                    inipagi</span></a></span>'s one and found on
+                        <a typeof="WebPage"
+                            href="https://www.iconfinder.com/icons/2620514/employee_job_laptop_seeker_unemployee_work_icon">iconfinder
+                        </a>
+                </li>
+                <li>
+Cat derived from <a typeof="WebPage"
+                            href="https://openclipart.org/detail/236739/friendly-kitten-icon">Open Clipart</a>                  
+                </li>
+            </ul>
+So long and thanks for all the nerds!
+        </div>
+
+        <div class="col-4" style="padding: 2rem;">
+            {% include "components/bio.html" %}
+            <hr style="background-color: transparent">
+            {% include "components/latest-posts.html" %}
+        </div>
+
+    </div>
+
+</div>

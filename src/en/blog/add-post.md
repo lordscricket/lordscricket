@@ -1,16 +1,17 @@
 ---
-title: Add a post
+title: "Documentation: Add a post"
 description: "We are now going to make the most basic thing expected from a blog: adding a post!"
-date: 2023-06-23T12:00:00
-author: Florent Tassy
+date: 1990-01-01T00:00:01
+author: System-generated
 tags: 
-    - documentation
+    - docs
     - blog
+    - dev
 ---
 
 ## Introduction
 
-A blog is basically made of a few static pages and many articles. Let's see then how we can create a new article in all that languages that our blog supports.
+Matches are hereby referred to as "Posts" and "Match Reports" collection as "Blog". A blog is basically made of a few static pages and many articles. Let's see then how we can create a new article in all that languages that our blog supports.
 
 ## Create the files
 

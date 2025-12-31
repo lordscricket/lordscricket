@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/archv/get-started/</loc>
+            
+            <lastmod>1990-01-01T00:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/add-post/</loc>
+            
+            <lastmod>1990-01-01T00:00:01</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/archv/colors/</loc>
+            
+            <lastmod>1990-01-01T00:00:01</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/welcome/</loc>
+            
+            <lastmod>1992-07-25T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/deploy/</loc>
+            
+            <lastmod>2023-06-11T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/deploy/</loc>
+            
+            <lastmod>2023-06-11T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/metrics/</loc>
+            
+            <lastmod>2023-06-15T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/add-post/</loc>
+            
+            <lastmod>2023-06-23T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/add-page/</loc>
+            
+            <lastmod>2023-06-30T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/add-language/</loc>
+            
+            <lastmod>2023-07-02T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/add-language/</loc>
+            
+            <lastmod>2023-07-02T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/colors/</loc>
+            
+            <lastmod>2023-07-05T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/colors/</loc>
+            
+            <lastmod>2023-07-05T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/get-started/</loc>
+            
+            <lastmod>2023-07-09T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/get-started/</loc>
+            
+            <lastmod>2023-07-09T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/2025-26/2025-12-14/</loc>
+            
+            <lastmod>2025-12-24T12:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/404.html</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/css/dark.css</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/css/light.css</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/css/stylesheet.css</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/404.html</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/about/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/blog/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/tags/all/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/404.html</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/about/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/blog/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/tags/all/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/</loc>
+            
+            <lastmod>2025-12-31T03:03:51</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/rules-green-ball/</loc>
+            
+            <lastmod>2025-12-31T03:06:29</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/season-current/</loc>
+            
+            <lastmod>2025-12-31T03:06:29</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/rules-green-ball/</loc>
+            
+            <lastmod>2025-12-31T03:06:29</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/fr/season-current/</loc>
+            
+            <lastmod>2025-12-31T03:06:29</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/andrew/</loc>
+            
+            <lastmod>2025-12-31T03:06:29</lastmod>
+            
+        </url>
+        
+    
+</urlset>

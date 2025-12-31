@@ -1,11 +1,12 @@
 ---
-title: Add a static page
+title: "[Dev] add a static page"
 description: In this article, we are going to see how to add a new page to the project.
-date: 2023-06-30T12:00:00
-author: Florent Tassy
+date: 2000-01-01T00:00:00
+author: System-generated
 tags: 
-    - blog
+    - dev
     - page
+eleventyExcludeFromCollections: true
 ---
 
 ## Introduction

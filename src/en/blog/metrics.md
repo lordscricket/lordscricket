@@ -10,7 +10,8 @@ tags:
     - validator
     - accessibility
     - performance
-    - SEO
+    - [SEO, dev]
+eleventyExcludeFromCollections: ["blog", "blogs"]
 ---
 
 ## Introduction

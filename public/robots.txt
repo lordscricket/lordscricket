@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*.jpg
+Disallow: /blog/archv/
+Disallow: /blog/metric
+Disallow: /404
+Disallow: /robots.txt
+Disallow: /fr/*
+Sitemap: http://localhost:8080/sitemap.xml
