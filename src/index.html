@@ -1,0 +1,51 @@
+---
+home: 🏠
+blog: 📰
+about: ❔
+---
+<!DOCTYPE html>
+<html lang="{{ data.languages[0] }}">
+
+<head>
+    {% include "components/meta.html" %}
+    <title>{{ data.title[data.languages[0]] }}</title>
+    <meta name="author" content="{{ data.author }}">
+    <meta name="keywords" content="{{ data.keywords[data.languages[0]] }}">
+    {% for lang in data.languages %}
+    <link {% if loop.index0===0 %}id="default-lang" {% endif %} rel="alternate" hreflang="{{ lang }}"
+        href="{{ [data.baseUrl, lang] | join('/') }}">
+    {% endfor %}
+</head>
+
+<body id="nightModeDiv" class="dark-theme" vocab="https://schema.org/">
+
+    {% include "components/navbar.html" %}
+    <main>
+        <div class="container is-center">
+            <div>
+                <h1>
+                    Language
+                </h1>
+                <div typeof="WebPage" resource="{{ [data.baseUrl, '#this'].join('/') }}">
+                    {% for lang in data.languages %}
+                    <div class="row is-center">
+                        <div class="col-1 is-center" property="inLanguage" typeof="Language" {% if
+                            data.languageUris[lang] %}resource="{{ data.languageUris[lang] }}" {% endif %}>
+                            <span hidden property="alternateName">{{ lang }}</span>
+                            <a href="/{{ lang | url }}" class="button" property="url">
+                                <span property="name" xml:lang="{{ lang }}" lang="{{ lang }}">
+                                    {{ data.languageLabels[lang] }}
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+    </main>
+    {% include "components/footer.html" %}
+    {% include "components/scripts.html" %}
+    <script src="{{ '/js/redirect.js' | url }}"></script>
+</body>
+
+</html>

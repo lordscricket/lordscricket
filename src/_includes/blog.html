@@ -1,0 +1,11 @@
+<div class="container">
+    <h1>{{ blog }}</h1>
+    <div class="blog-list">
+        {% for post in collections.post | reverse %}
+        {% if post.data.lang == lang %}
+        {% include "components/post-summary.html" %}
+        <br>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>

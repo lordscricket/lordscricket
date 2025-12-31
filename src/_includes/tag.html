@@ -1,0 +1,12 @@
+<div class="container">
+    <h1>{{ title }} “{{ tag }}”</h1>
+    <div class="blog-list">
+        {% set taglist = collections[ tag ] %}
+        {% for post in taglist | reverse %}
+        {% if post.data.lang == lang %}
+        {% include "components/post-summary.html" %}
+        <br>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
