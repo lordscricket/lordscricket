@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://localhost:8080" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://lordscricket.org.au" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lords Cricket</title>
-    <link>http://localhost:8080/en/feed.xml</link>
-    <atom:link href="http://localhost:8080/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://lordscricket.org.au/en/feed.xml</link>
+    <atom:link href="https://lordscricket.org.au/en/feed.xml" rel="self" type="application/rss+xml"/>
     <description>English</description>
     <language>en</language>
     
@@ -11,12 +11,12 @@
       
       <item>
         <title>Down to 2 balls, 4 runs and 5 fingers...</title>
-        <link>http://localhost:8080/en/blog/2025-26/2025-12-14/</link>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</link>
         <description>&lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col&quot;&gt;
 						&lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;img src=&quot;http://localhost:8080/img/header.png&quot; alt=&quot;LordsCricket banner with green balls, maximums and maximum carnage&quot; /&gt; &lt;/div&gt;
+  &lt;img src=&quot;https://lordscricket.org.au/img/header.png&quot; alt=&quot;LordsCricket banner with green balls, maximums and maximum carnage&quot; /&gt; &lt;/div&gt;
 	&lt;br /&gt;
 
 &lt;div class=&quot;container&quot;&gt;
@@ -75,14 +75,14 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/h1&gt;&lt;/div&gt;
 
         &lt;div class=&quot;col-4&quot; style=&quot;padding: 0rem;&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/img/2025-26/img-1412-1.jpg&quot; target=&quot;_blank&quot; title=&quot;Click to open in a new tab.&quot;&gt;&lt;img src=&quot;http://localhost:8080/img/2025-26/img-1412-1.jpg&quot; alt=&quot;Group Photo: 10 men wearing hats and running shoes, a canopy of gumtrees behind. Credit: Steph&quot; min-height=&quot;286&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/img/2025-26/img-1412-1.jpg&quot; target=&quot;_blank&quot; title=&quot;Click to open in a new tab.&quot;&gt;&lt;img src=&quot;https://lordscricket.org.au/img/2025-26/img-1412-1.jpg&quot; alt=&quot;Group Photo: 10 men wearing hats and running shoes, a canopy of gumtrees behind. Credit: Steph&quot; min-height=&quot;286&quot; /&gt;&lt;/a&gt;
             &lt;hr style=&quot;background-color: transparent&quot; /&gt;
 
   &lt;div style=&quot;margin-top: 120px; text-align: center;&quot;&gt;
-    &lt;img src=&quot;http://localhost:8080/img/2025-26/gatting-bowled.webp&quot; alt=&quot;Mike Gatting with surprised look as a leg break beats him. Ian healy is jubilant in celebration behind an airborne cricket bail &quot; max-height=&quot;228&quot; width=&quot;186&quot; height=&quot;228&quot; style=&quot;display: inline-block;&quot; /&gt;
+    &lt;img src=&quot;https://lordscricket.org.au/img/2025-26/gatting-bowled.webp&quot; alt=&quot;Mike Gatting with surprised look as a leg break beats him. Ian healy is jubilant in celebration behind an airborne cricket bail &quot; max-height=&quot;228&quot; width=&quot;186&quot; height=&quot;228&quot; style=&quot;display: inline-block;&quot; /&gt;
     ↼ Gatting bowled. [poor depiction, Smith, I. 7 (6).]&lt;br /&gt;
 		&lt;/div&gt;
-&lt;img src=&quot;http://localhost:8080/img/2025-26/warne-gatting-celebrate.webp&quot; alt=&quot;Rear view of defeated gatting is shown behind his stumps, bail missing; Healy is approaching Shane Warne for a bear hug while Warne is looking joyous and surprised, celebrating with a curled fist to the skies.&quot; max-height=&quot;206&quot; /&gt;
+&lt;img src=&quot;https://lordscricket.org.au/img/2025-26/warne-gatting-celebrate.webp&quot; alt=&quot;Rear view of defeated gatting is shown behind his stumps, bail missing; Healy is approaching Shane Warne for a bear hug while Warne is looking joyous and surprised, celebrating with a curled fist to the skies.&quot; max-height=&quot;206&quot; /&gt;
  Warney celebrates [worse depiction, Miller, 1/29, 5ov.]&lt;!-- Wrap the bottom images + captions in a container and push it down --&gt;
 &lt;/div&gt;
 
@@ -98,7 +98,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -109,7 +109,85 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
+                Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
+            &lt;/a&gt;
+        &lt;/p&gt;
+
+        &lt;hr /&gt;
+    &lt;/div&gt;
+
+    
+
+    
+
+    
+
+    &lt;div typeof=&quot;BlogPosting&quot;&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
+        &lt;p&gt;
+            
+            Date:
+            &lt;time datetime=&quot;2025-04-25T12:00:00&quot; property=&quot;datePublished&quot;&gt;
+                4/25/2025
+            &lt;/time&gt;
+            
+        &lt;/p&gt;
+
+        &lt;p property=&quot;abstract&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
+                Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
+            &lt;/a&gt;
+        &lt;/p&gt;
+
+        &lt;hr /&gt;
+    &lt;/div&gt;
+
+    
+
+    
+
+    
+
+    &lt;div typeof=&quot;BlogPosting&quot;&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-26/2025-04-25-1/&quot; property=&quot;url&quot;&gt;ANZAC-Whack: A second generation&lt;/a&gt;&lt;/h3&gt;
+        &lt;p&gt;
+            
+            Date:
+            &lt;time datetime=&quot;2025-04-25T12:00:00&quot; property=&quot;datePublished&quot;&gt;
+                4/25/2025
+            &lt;/time&gt;
+            
+        &lt;/p&gt;
+
+        &lt;p property=&quot;abstract&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-26/2025-04-25-1/&quot; style=&quot;text-decoration: none;&quot;&gt;
+                Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
+            &lt;/a&gt;
+        &lt;/p&gt;
+
+        &lt;hr /&gt;
+    &lt;/div&gt;
+
+    
+
+    
+
+    
+
+    &lt;div typeof=&quot;BlogPosting&quot;&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-04-25-1/&quot; property=&quot;url&quot;&gt;ANZAC-Whack: A second generation&lt;/a&gt;&lt;/h3&gt;
+        &lt;p&gt;
+            
+            Date:
+            &lt;time datetime=&quot;2025-04-25T12:00:00&quot; property=&quot;datePublished&quot;&gt;
+                4/25/2025
+            &lt;/time&gt;
+            
+        &lt;/p&gt;
+
+        &lt;p property=&quot;abstract&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-04-25-1/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
             &lt;/a&gt;
         &lt;/p&gt;
@@ -128,7 +206,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/get-started/&quot; property=&quot;url&quot;&gt;Get started with Polyglot Tech Blog template&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/en/blog/get-started/&quot; property=&quot;url&quot;&gt;Get started with Polyglot Tech Blog template&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -139,47 +217,13 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/get-started/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/en/blog/get-started/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 In this post, we are going to see what to do to get Polyglot Tech Blog starter running with your content
             &lt;/a&gt;
         &lt;/p&gt;
 
         &lt;hr /&gt;
     &lt;/div&gt;
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/colors/&quot; property=&quot;url&quot;&gt;Customize the colors&lt;/a&gt;&lt;/h3&gt;
-        &lt;p&gt;
-            
-            Date:
-            &lt;time datetime=&quot;2023-07-05T12:00:00&quot; property=&quot;datePublished&quot;&gt;
-                7/5/2023
-            &lt;/time&gt;
-            
-        &lt;/p&gt;
-
-        &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/colors/&quot; style=&quot;text-decoration: none;&quot;&gt;
-                Let&amp;#39;s see how we can customize the template colors 🎨
-            &lt;/a&gt;
-        &lt;/p&gt;
-
-        &lt;hr /&gt;
-    &lt;/div&gt;
-
-    
-
-    
 
     
 
@@ -193,7 +237,302 @@ runs with a delivery spare.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;</description>
         <pubDate>Wed, 24 Dec 2025 22:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-26/2025-12-14/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</guid>
+      </item>
+      
+    
+    
+      
+      <item>
+        <title>Green Ball Meets Multigenerational - ANZAC-Whack</title>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</link>
+        <description>&lt;p&gt;A specially eventful cricket match spanning generations, seasons;
+pagelength &amp;amp; title-length. Led by Brother vs Brother to enable Sis v Sis
+and Husband v Wife.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lording&lt;/strong&gt;, &lt;em&gt;Participle&lt;/em&gt;, from Lord (Intransitive verb): To insist upon
+or boast about so as to act in a superior manner; To act or maintain a
+position in a domineering manner; To rule over. To become a stat addict;
+and to put individual stats above your team&#39;s goal.&lt;/p&gt;
+&lt;p&gt;None of these definitions describe this moment: One week, an Aussie
+dreams about cricket in the day, quickly remembering pads and helmets,
+disregards that nonsense and dreams of tennis balls pinging off bats in
+the night. He awakes with new **features &amp;amp; stats** for Lords Cricket
+on his mind. By the next week he&#39;s calling &#39;howzat&#39; when he reaches a
+hand to catch a dish at the sink. By the 3rd he&#39;s brainstorming new
+ways of displaying stats: for banter with his workmate (despite no more
+cricket). By the time the month is up he&#39;s throwing pies across the
+living room of his unit -- at his wife who&#39;s begrudgingly holding a bat.
+The final stage - he&#39;s hosting his own game of Lords Cricket well into
+the autumn and forcing his friends and family along. Lording -
+participle: &lt;em&gt;To be subjected to the addiction that is Lords Cricket&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Weather: after 10 days of hitting &amp;quot;refresh&amp;quot; on forecast; and the
+forecast of rain facing it&#39;s own reality; Lords Cricket would go on.
+ANZAC day and a public holiday falls perfectly to start a weekend, I,
+Joshua invited along my mates, cousins, wife, parents and even
+grandparents as spectators for a bonus round to top off my debut season
+after a solitary Run-Out as a sub just wasn&#39;t enough to scratch my cricket
+itch. On this very grey day, a closed registration became increasingly
+open and players kept appearing heading down the path to the Billabong
+Oval. Surely all these people weren&#39;t here to play cricket on a grey
+autumn&#39;s day? Six debutantes and a guest player; this game had it all,
+including generations that truly spanned 1948 (Donald Bradman&#39;s
+historical English tour): Barry Rimmer through 2000 (Waugh, captaining
+the start of 16 win-streak): his grandson J Miller (yours truly) &amp;amp; two
+grand-daughters, H &amp;amp; S Rimmer.&lt;/p&gt;
+&lt;p&gt;Hosting my first game; I was a bit distracted and someone told me I was
+opening the batting for Waugh2000. An opening stand of 68 with yours
+truly, Joshua Miller [30 (35)] and Sam Tolhurst&#39;s efficient 27 (19)
+with his first career 6s looked solid until J.Miller fell, and debutante
+Sascha Moseley (one of two that doesn&#39;t require a first initial) got
+out in classic Lord&#39;s fashion, skying his second ball off his top edge
+to keeper Andrew I. Turner who without anyone nearby to confuse, took
+the catch with ease. 1/68 became 2/69 became 3/75 in a flash. 4/75 how
+did we get here, 5/75... a... hat-trick? Debutante H Rimmer in her
+inaugural over of Lords cricket had the following over:&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Wk   1wd   1wd   1wd   1wd   1wd   1   Wk   Wk   Wk   1&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Looking like a web-dev&#39;s nightmare; an error trying to render special
+characters: this over had even more. And just like that with her first
+five bowls on the pitch had taken four wickets immediately leaping the
+young H Rimmer into Lords Cricket fame finishing 4/16 and in Current
+Rating is at 412 leapfrogging two of her wickets; Tolhurst (#18) and
+Stephen Lang (#11) to fly into #8 of the Bowling Dream Team with the
+Strike Rate (raw) of 8. The quality of the wickets? Well this is Lords
+cricket. Only the most exceptional and unreproducible moments are
+described. Thus #2: S. Lang&#39;s bails fell; and that&#39;s most of what we
+know. Hit-Wicket is a brutal way to go, particularly when you&#39;re not
+entirely sure how your castle fell.&lt;/p&gt;
+&lt;p&gt;Hat-trick&lt;/p&gt;
+&lt;p&gt;Name&lt;/p&gt;
+&lt;p&gt;Date&lt;/p&gt;
+&lt;p&gt;1&lt;/p&gt;
+&lt;p&gt;David Lang&lt;/p&gt;
+&lt;p&gt;08/12/02&lt;/p&gt;
+&lt;p&gt;2&lt;/p&gt;
+&lt;p&gt;Stephen Lang&lt;/p&gt;
+&lt;p&gt;10/10/10&lt;/p&gt;
+&lt;p&gt;3&lt;/p&gt;
+&lt;p&gt;David Lang&lt;/p&gt;
+&lt;p&gt;05/12/10&lt;/p&gt;
+&lt;p&gt;4&lt;/p&gt;
+&lt;p&gt;David Priest&lt;/p&gt;
+&lt;p&gt;14/10/12&lt;/p&gt;
+&lt;p&gt;5&lt;/p&gt;
+&lt;p&gt;William Turner&lt;/p&gt;
+&lt;p&gt;07/12/14&lt;/p&gt;
+&lt;p&gt;6&lt;/p&gt;
+&lt;p&gt;Daniel Schwimmer&lt;/p&gt;
+&lt;p&gt;04/12/16&lt;/p&gt;
+&lt;p&gt;7&lt;/p&gt;
+&lt;p&gt;Hannah Rimmer&lt;/p&gt;
+&lt;p&gt;25/04/25&lt;/p&gt;
+&lt;p&gt;Moving on, A.I. Turner, after a shaky start with catches (to my pleasure
+and captain David Lang&#39;s displeasure). A.I. Turner finally warmed into
+it off his own bowling and took some classic catches one graceful crash
+landing, (improved from a &amp;quot;whale flop&amp;quot;--thanks Andrew), which upon
+rising he surprised to discover the ball in his hand and dirt in his
+hair. Senior Turner, taking 7 catches out of 9 wickets has been warned,
+but to satisfy complaints, drug tests have been demanded and the case
+elevated to the tribunal, directed to review his earlier drops a way of
+trying to skirt &#39;no feats of athleticism&#39;.&lt;/p&gt;
+&lt;p&gt;Diverging briefly; Improvements to lordscricket.org.au site and stats:
+Thanks to P Wiskich super smarts &amp;amp; skills (more on why he&#39;s a lad). The
+ball figures (or wingdings) above are a glimpse of the Ball-by-ball stat
+tracker, build from the digital scorecard you can re-live play-by-play
+(without detail of heroic or blunder) any previous games back to #105.
+Newer players can be compared in detail by, without influencing the
+fair &amp;amp; just Lords Ranking System(TM), an option for &#39;Raw stats&#39;
+un-obfuscating Averages and Strike Rate for noobs. &lt;em&gt;And&lt;/em&gt; for Lords famed
+players; &#39;Current&#39; &amp;amp; &#39;All time&#39; one&#39;s troubled past doesn&#39;t define
+their career -- except for bowler Will Turner who was always exceptional
+by his Player Stats History, a swanky graph shows he attained a high
+400s in the summer of &#39;11-&#39;12 following his debut as a full player in
+Nov (now #24 with 513 in All Time; 2 points behind his Dad).&lt;/p&gt;
+&lt;p&gt;After all the carnage by bowler H Rimmer (&amp;amp; the sods unfortunate enough
+to be caught); sister S Rimmer, 13 (13); and aunt K Miller, were left at
+the crease to try rebuild a foundation from two overs before (187
+projected at 8.0 overs while Tolhurst and JGM were and now at 5 for:
+down to 150 projected) And with a runner (J.G. Miller) coming on to
+support his mum; That they Did. Putting on a partnership of 34 (25),
+with K Miller &amp;quot;Killer&amp;quot; putting on a handy 19 (18). S. Lang returned
+and surely this time: his feet at the very front of the crease. S. Lang
+put on an efficient 40 (25) alongside two Millers and a Rimmer; a
+captain&#39;s knock.&lt;/p&gt;
+&lt;p&gt;Players returning to the crease scored some crumbs; G Miller with his
+first Lords run, Moseley (3) and S Rimmer brought her total and thus
+average to 17 with a 4 n.o. (3).&lt;/p&gt;
+&lt;p&gt;Hat-Tricks aside, the pick of Bradman1948&#39;s bowlers were A.I. Turner
+(2/20) and D. Lang (2/36) with Waugh2000 picking their danger man
+Michael Thornley accurately and &#39;Hutchinsonned&#39; out his 5ov., conceding
+just 8 runs without wicket; earning him an incredible economy of 1.6. N
+Wiskich created a first opportunity and Thornley set expectations
+unreasonably high and took the catch, earning her a first wicket.&lt;/p&gt;
+&lt;p&gt;At the 23rd over mark, S. Lang and S Rimmer were retired and the Bonus
+Overs (bon.Ov) began with Grandfather B.R. Rimmer and his son-in-law G
+Miller for two overs of no-outs; equally competitive cricket. G Miller
+tripled his run total with a single strike with a 2*. B.R. Rimmer took
+a few to find his historical form, and in a moment of brilliance
+mirroring his cricketing days gone by, smoked a pull-shot back of square
+for four runs. Rimmer and Miller rellies cheered on, as he remembered
+post stroke that he&#39;s 83 years old, and a bat that may support him
+while standing, betrayed him on the follow through; took a tumble and
+retired hurt to ease the mind of his watching wife. While brief, the
+Miller Rimmer spectators may have seen B Rimmer score his final boundary
+in an adventurous Lords Cricket stint; and a glorious shot it was. (Note
+that some may suggest a Hit-Wicket occurred; but the overwhelming
+evidence suggests the ball had crossed the boundary and was a dead ball
+before the bails came off). Mosely returned and scored a 2 bringing the
+Bonus Overs to a close with Waugh2000, 9:: SM 2(2); BR 4(7); GM 2(3);
+1ext.; Bradman1948: HR 0/1, NW 0/8. [[Final, for merit only:: Waugh:
+SM 6(off 11, out twice), GM 3(off 17, out twice): Bradman: HR 4/17
+(3.0), NW 1/33 (4.0).]]&lt;/p&gt;
+&lt;p&gt;With only a spot of rain so far; a full innings break brought some great
+food thanks to Killer including some fitting ANZACs and J.R. Miller. G.
+Miller, over-achieving brought a esky-full when asked to bring a couple
+&amp;quot;Zeros&amp;quot; to fuel Killer&#39;s attack.&lt;/p&gt;
+&lt;p&gt;D. Lang took on the Killer before she hurried back to the sideline to
+continue scoring enthusiastically; and when he tried to do the same to
+the next; S Moseley with a chip on his shoulder struck quickly with a
+wicket in 4 legal deliveries dismissing him for 15 (7).&lt;/p&gt;
+&lt;p&gt;P. Wiskich who can be awarded a few Good Lad points for forsaking a bat
+to give the many debutantes a go; then continuing his Lawful Good streak
+took a hammering to his figures against danger man Thornley. A no way
+cautious M Thornley returned on the scorecards, eyeing off that 6th
+column (&amp;quot;6s&amp;quot;) who&#39;s career has more of the former than 4s (34 6s vs
+30 4s). After going for 13 from Thornley in an over; P. Wiskich sent him
+to the biscuits in the next; and conceded only a further 5 runs
+finishing at 2/18.&lt;/p&gt;
+&lt;p&gt;With A. Turner joining A. Turner at the crease, Ali was fashioning a
+fine innings and scored her first Lord&#39;s cricket boundary (four)
+against a surprisingly nimble G. J. Miller; until J. G. Miller his
+interrupted with finger-spin leg-breaks, striking thanks to the fine
+hands of S. Moseley, A. G Turner finishing at 11 (18). In the attack
+Miller made way for a Rimmer as Turner made way for Rimmer and a sibling
+feud began. But not before A.I. Turner, 42 (32) took the worm to it&#39;s
+biggest gap, as 3/65 became 4/116. Sarah Rimmer struck from the field
+(the only Miller or Rimmer to do so) and ran her sister Hannah Rimmer
+out for 8 (13), a direct hit from memory, of which she hadn&#39;t been
+cautioned.&lt;/p&gt;
+&lt;p&gt;G. Miller took his first wicket since possibly the 2010s and first for
+Lords dismissing N. Wiskich for a handy first ever innings of 7 (8)
+(Thanks to P. Wiskich: another couple of Good Lad points to the dad).
+Not a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
+&lt;p&gt;INSERT 8th wicket partnership here J. R. Miller not to be confused with
+her husband J. G. Miller came out to bat, and came out of her crease a
+good number of times as well; tempting S. Moseley to win fielding points
+time and again with stumping &amp;quot;chances&amp;quot;. In her three innings she
+scored more runs than possible stumpings, 10 (20*inc. Bon.Ov.) with
+honour(tm) prevailing, she was able to build a foundation for a hope of
+final runs to scramble Bradman1948 there.&lt;/p&gt;
+&lt;p&gt;H. Rimmer got two good starts with 8 (13) and 12
+(7) finding the ropes twice. A. R. Turner (the
+second) was unable to convert her first innings
+success and Bradman1948 found themselves all out with
+a tall task for J.R. Miller and N. Wiskich
+in the two Bonus Overs. A tidy over from Mosely &amp;amp; J.G. Miller setting
+his sights on getting his wife out, the bon.Ov went for 2, with wife
+keeping out husband as the rain picked up to a light drizzle, cooling
+players and confusing Adelaideians as to why it felt like the tropics.
+Bradman1948 was left 14 runs short and a slim victory margin by
+Waugh2000 was expanded slightly. &lt;strong&gt;bon.Ov&lt;/strong&gt; Bradman, 2:: JRM 1(7), NW
+0(4, out once, no runs deducted c&amp;amp;b JGM): Waugh2000: SM 0/1, JGM 1/1
+final for merit only:: Waugh2000+, 9/180 defeated Bradman, 10/165 :
+JRM 10(27) out once, NW 10(11) out three times; Waugh2000: SM: 1/28
+(4.0), JGM: 2/11 (4.0).&lt;/p&gt;
+&lt;p&gt;This addition to the season that refuses to die was both remarkable and
+a good reminder of what Lords is about. Selfishness and statistics
+*AND* friends and family. The algorithm continues it&#39;s great work
+even with 6 debutantes; one whom achieved the highest bowling feat
+(ordered by embarrassment). Thanks for a great season Plus+, special
+thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;gt;
+ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
+        <dc:creator>Joshua M</dc:creator>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</guid>
+      </item>
+      
+    
+    
+      
+      <item>
+        <title>ANZAC-Whack: A second generation</title>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-04-25-1/</link>
+        <description>&lt;p&gt;INSERT 8th wicket partnership here J. R. Miller not to be confused with
+her husband J. G. Miller came out to bat, and came out of her crease a
+good number of times as well; tempting S. Moseley to win fielding points
+time and again with stumping &amp;quot;chances&amp;quot;. In her three innings she
+scored more runs than possible stumpings, 10 (20*inc. Bon.Ov.) with
+honour(tm) prevailing, she was able to build a foundation for a hope of
+final runs to scramble Bradman1948 there.&lt;/p&gt;
+&lt;p&gt;H. Rimmer got two good starts with 8 (13) and 12
+(7) finding the ropes twice. A. R. Turner (the
+second) was unable to convert her first innings
+success and Bradman1948 found themselves all out with
+a tall task for J.R. Miller and N. Wiskich
+in the two Bonus Overs. A tidy over from Mosely &amp;amp; J.G. Miller setting
+his sights on getting his wife out, the bon.Ov went for 2, with wife
+keeping out husband as the rain picked up to a light drizzle, cooling
+players and confusing Adelaideians as to why it felt like the tropics.
+Bradman1948 was left 14 runs short and a slim victory margin by
+Waugh2000 was expanded slightly. &lt;strong&gt;bon.Ov&lt;/strong&gt; Bradman, 2:: JRM 1(7), NW
+0(4, out once, no runs deducted c&amp;amp;b JGM): Waugh2000: SM 0/1, JGM 1/1
+final for merit only:: Waugh2000+, 9/180 defeated Bradman, 10/165 :
+JRM 10(27) out once, NW 10(11) out three times; Waugh2000: SM: 1/28
+(4.0), JGM: 2/11 (4.0).&lt;/p&gt;
+&lt;p&gt;This addition to the season that refuses to die was both remarkable and
+a good reminder of what Lords is about. Selfishness and statistics
+*AND* friends and family. The algorithm continues it&#39;s great work
+even with 6 debutantes; one whom achieved the highest bowling feat
+(ordered by embarrassment). Thanks for a great season Plus+, special
+thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;gt;
+ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
+        <dc:creator>Joshua M</dc:creator>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-04-25-1/</guid>
+      </item>
+      
+    
+    
+      
+      <item>
+        <title>ANZAC-Whack: A second generation</title>
+        <link>https://lordscricket.org.au/en/blog/2025-04-25-1/</link>
+        <description>&lt;p&gt;INSERT 8th wicket partnership here J. R. Miller not to be confused with
+her husband J. G. Miller came out to bat, and came out of her crease a
+good number of times as well; tempting S. Moseley to win fielding points
+time and again with stumping &amp;quot;chances&amp;quot;. In her three innings she
+scored more runs than possible stumpings, 10 (20*inc. Bon.Ov.) with
+honour(tm) prevailing, she was able to build a foundation for a hope of
+final runs to scramble Bradman1948 there.&lt;/p&gt;
+&lt;p&gt;H. Rimmer got two good starts with 8 (13) and 12
+(7) finding the ropes twice. A. R. Turner (the
+second) was unable to convert her first innings
+success and Bradman1948 found themselves all out with
+a tall task for J.R. Miller and N. Wiskich
+in the two Bonus Overs. A tidy over from Mosely &amp;amp; J.G. Miller setting
+his sights on getting his wife out, the bon.Ov went for 2, with wife
+keeping out husband as the rain picked up to a light drizzle, cooling
+players and confusing Adelaideians as to why it felt like the tropics.
+Bradman1948 was left 14 runs short and a slim victory margin by
+Waugh2000 was expanded slightly. &lt;strong&gt;bon.Ov&lt;/strong&gt; Bradman, 2:: JRM 1(7), NW
+0(4, out once, no runs deducted c&amp;amp;b JGM): Waugh2000: SM 0/1, JGM 1/1
+final for merit only:: Waugh2000+, 9/180 defeated Bradman, 10/165 :
+JRM 10(27) out once, NW 10(11) out three times; Waugh2000: SM: 1/28
+(4.0), JGM: 2/11 (4.0).&lt;/p&gt;
+&lt;p&gt;This addition to the season that refuses to die was both remarkable and
+a good reminder of what Lords is about. Selfishness and statistics
+*AND* friends and family. The algorithm continues it&#39;s great work
+even with 6 debutantes; one whom achieved the highest bowling feat
+(ordered by embarrassment). Thanks for a great season Plus+, special
+thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;gt;
+ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
+        <dc:creator>Joshua M</dc:creator>
+        <guid>https://lordscricket.org.au/en/blog/2025-04-25-1/</guid>
       </item>
       
     
@@ -203,7 +542,7 @@ runs with a delivery spare.&lt;/p&gt;
       
       <item>
         <title>Get started with Polyglot Tech Blog template</title>
-        <link>http://localhost:8080/en/blog/get-started/</link>
+        <link>https://lordscricket.org.au/en/blog/get-started/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;You have found Polyglot Tech Blog and wish to use it as a basis for your blog. Great! Let&#39;s go through the steps to get the code and adapt it to your needs.&lt;/p&gt;
 &lt;h2&gt;Get the code and install the dependencies&lt;/h2&gt;
@@ -295,9 +634,9 @@ runs with a delivery spare.&lt;/p&gt;
 &lt;li&gt;You may personalize &lt;code&gt;src &amp;gt; index.html&lt;/code&gt; and &lt;code&gt;src &amp;gt; 404.html&lt;/code&gt;, but that&#39;s not absolutely necessary.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Adapt the style&lt;/h2&gt;
-&lt;p&gt;You can go to &lt;a href=&quot;http://localhost:8080/en/blog/colors&quot;&gt;the article about colors&lt;/a&gt; for further details about this step.&lt;/p&gt;
+&lt;p&gt;You can go to &lt;a href=&quot;https://lordscricket.org.au/en/blog/colors&quot;&gt;the article about colors&lt;/a&gt; for further details about this step.&lt;/p&gt;
 &lt;h2&gt;Add or remove languages&lt;/h2&gt;
-&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;http://localhost:8080/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Add static pages&lt;/h2&gt;
 &lt;p&gt;The starter comes with four static page: &amp;quot;Home&amp;quot;, &amp;quot;Stats&amp;quot;, &amp;quot;Matches&amp;quot; and &amp;quot;404&amp;quot;. They are written in HTML and can be found in each language directory:&lt;/p&gt;
 &lt;pre class=&quot;language-plain&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-plain&quot;&gt;src
@@ -312,9 +651,9 @@ runs with a delivery spare.&lt;/p&gt;
      ├── about.html
      ├── blog.html
      └── 404.html&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;http://localhost:8080/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
+&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
 &lt;h2&gt;Add posts&lt;/h2&gt;
-&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;http://localhost:8080/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Check markup validity&lt;/h2&gt;
 &lt;p&gt;The starter template comes with commands and dependencies to check HTML and CSS validity using &lt;a href=&quot;https://validator.github.io/validator/&quot;&gt;W3C&#39;s vnu-jar&lt;/a&gt;. However, vnu-jar checker is written in Java, so you will have to install a Java Runtime Environment to make these commands work. I recommend the free and excellent &lt;a href=&quot;https://adoptium.net/temurin/&quot;&gt;Eclipse Temurin&lt;/a&gt;.&lt;br /&gt;
 You can then check the HTML validity with:&lt;/p&gt;
@@ -330,15 +669,15 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run check:css:win &lt;span class=&quot;token comment&quot;&gt;# with npm on Window systems&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; check:css:win &lt;span class=&quot;token comment&quot;&gt;# with Yarn on Windows systems&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;h2&gt;Check various metrics about your blog&lt;/h2&gt;
-&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;http://localhost:8080/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;https://lordscricket.org.au/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Build and deploy&lt;/h2&gt;
-&lt;p&gt;Our blog is ready to be put online. This can bon done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;http://localhost:8080/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
+&lt;p&gt;Our blog is ready to be put online. This can bon done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;https://lordscricket.org.au/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;We have seen all basic steps to get a Polyglot Tech Blog up and running with your content. If you followed all these steps, you have now an online blog. Congratulations! Of course, many more customizations are possible, so feel free to experiment and share your ideas on &lt;a href=&quot;https://gitlab.com/florent_tassy/polyglot-tech-blog&quot;&gt;GitLab&lt;/a&gt; 😉&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Jul 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/get-started/</guid>
+        <guid>https://lordscricket.org.au/en/blog/get-started/</guid>
       </item>
       
     
@@ -348,7 +687,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Customize the colors</title>
-        <link>http://localhost:8080/en/blog/colors/</link>
+        <link>https://lordscricket.org.au/en/blog/colors/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The colors of a web page are the most fundamental thing to choose in order to feel at home and to reflect who we are. Let&#39;s see where Polyglot Tech Blog colors are defined in order to modify them.&lt;/p&gt;
 &lt;h2&gt;Modify the right file&lt;/h2&gt;
@@ -399,11 +738,11 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;p&gt;These two templates actually contain CSS and result in two CSS style sheets that are alternatively added depending on the selected color schema. By default, the light theme is the &amp;quot;prism-coy&amp;quot; theme provided with PrismJS. Any theme provided as an NPM package could be added the same way.&lt;/p&gt;
 &lt;p&gt;The dark theme is based on &lt;a href=&quot;https://github.com/PrismJS/prism-themes/blob/master/themes/prism-gruvbox-dark.css&quot;&gt;Gruvbox dark theme by Azat S.&lt;/a&gt;. However, it was a bit modified to pass the automated accessibility tests done by &lt;a href=&quot;https://www.deque.com/axe/browser-extensions/&quot;&gt;axe browser extension&lt;/a&gt;. So in that case, the CSS code was simply copied and modified in the &lt;code&gt;src &amp;gt; css &amp;gt; code-highlight-dark.njk&lt;/code&gt; file.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;http://localhost:8080/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
+&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;https://lordscricket.org.au/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Jul 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/colors/</guid>
+        <guid>https://lordscricket.org.au/en/blog/colors/</guid>
       </item>
       
     
@@ -413,7 +752,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Add language</title>
-        <link>http://localhost:8080/en/blog/add-language/</link>
+        <link>https://lordscricket.org.au/en/blog/add-language/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;div&gt;Polyglot Tech Blog comes in English and French to show in action. However, it is possible to add as many languages as you want. Let&#39;s show how by adding German 🇩🇪&lt;/div&gt;
 &lt;h2&gt;Update data.json&lt;/h2&gt;
@@ -485,7 +824,7 @@ You can then check the HTML validity with:&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Jul 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/add-language/</guid>
+        <guid>https://lordscricket.org.au/en/blog/add-language/</guid>
       </item>
       
     
@@ -501,7 +840,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Deploy</title>
-        <link>http://localhost:8080/en/blog/deploy/</link>
+        <link>https://lordscricket.org.au/en/blog/deploy/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;div&gt;Now that we have adapted the template with our content, we would like to deploy it on the web. Let&#39;s go through some common deployment scenarios.&lt;/div&gt;
 &lt;h2&gt;Deploy manually&lt;/h2&gt;
@@ -563,7 +902,7 @@ You can then check the HTML validity with:&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jun 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/deploy/</guid>
+        <guid>https://lordscricket.org.au/en/blog/deploy/</guid>
       </item>
       
     
@@ -571,15 +910,15 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Welcome!</title>
-        <link>http://localhost:8080/en/blog/welcome/</link>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:8080/img/header.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+        <link>https://lordscricket.org.au/en/blog/welcome/</link>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/img/header.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;&amp;lt;&amp;lt;&amp;lt; Click on a match date to sign up to play&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;Comments off&lt;/code&gt;&lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
 </description>
         <pubDate>Sat, 25 Jul 1992 21:30:00 +0000</pubDate>
         <dc:creator>Andrew Turner</dc:creator>
-        <guid>http://localhost:8080/en/blog/welcome/</guid>
+        <guid>https://lordscricket.org.au/en/blog/welcome/</guid>
       </item>
       
     
@@ -587,7 +926,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Documentation: Colors</title>
-        <link>http://localhost:8080/en/blog/archv/colors/</link>
+        <link>https://lordscricket.org.au/en/blog/archv/colors/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The colors of a web page are the most fundamental thing to choose in order to feel at home and to reflect who we are. Let&#39;s see where Polyglot Tech Blog colors are defined in order to modify them.&lt;/p&gt;
 &lt;h2&gt;Modify the right file&lt;/h2&gt;
@@ -638,11 +977,11 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;p&gt;These two templates actually contain CSS and result in two CSS style sheets that are alternatively added depending on the selected color schema. By default, the light theme is the &amp;quot;prism-coy&amp;quot; theme provided with PrismJS. Any theme provided as an NPM package could be added the same way.&lt;/p&gt;
 &lt;p&gt;The dark theme is based on &lt;a href=&quot;https://github.com/PrismJS/prism-themes/blob/master/themes/prism-gruvbox-dark.css&quot;&gt;Gruvbox dark theme by Azat S.&lt;/a&gt;. However, it was a bit modified to pass the automated accessibility tests done by &lt;a href=&quot;https://www.deque.com/axe/browser-extensions/&quot;&gt;axe browser extension&lt;/a&gt;. So in that case, the CSS code was simply copied and modified in the &lt;code&gt;src &amp;gt; css &amp;gt; code-highlight-dark.njk&lt;/code&gt; file.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;http://localhost:8080/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
+&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;https://lordscricket.org.au/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 1990 10:30:01 +0000</pubDate>
         <dc:creator>System-generated</dc:creator>
-        <guid>http://localhost:8080/en/blog/archv/colors/</guid>
+        <guid>https://lordscricket.org.au/en/blog/archv/colors/</guid>
       </item>
       
     
@@ -650,7 +989,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Documentation: Add a post</title>
-        <link>http://localhost:8080/en/blog/add-post/</link>
+        <link>https://lordscricket.org.au/en/blog/add-post/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Matches are hereby referred to as &amp;quot;Posts&amp;quot; and &amp;quot;Match Reports&amp;quot; collection as &amp;quot;Blog&amp;quot;. A blog is basically made of a few static pages and many articles. Let&#39;s see then how we can create a new article in all that languages that our blog supports.&lt;/p&gt;
 &lt;h2&gt;Create the files&lt;/h2&gt;
@@ -689,7 +1028,7 @@ tags:
 </description>
         <pubDate>Mon, 01 Jan 1990 10:30:01 +0000</pubDate>
         <dc:creator>System-generated</dc:creator>
-        <guid>http://localhost:8080/en/blog/add-post/</guid>
+        <guid>https://lordscricket.org.au/en/blog/add-post/</guid>
       </item>
       
     
@@ -697,9 +1036,9 @@ tags:
       
       <item>
         <title>Getting starting with this template</title>
-        <link>http://localhost:8080/en/blog/archv/get-started/</link>
+        <link>https://lordscricket.org.au/en/blog/archv/get-started/</link>
         <description>&lt;h2&gt;Add or remove languages&lt;/h2&gt;
-&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;http://localhost:8080/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Add static pages&lt;/h2&gt;
 &lt;p&gt;The starter comes with four static page: &amp;quot;Home&amp;quot;, &amp;quot;Stats&amp;quot;, &amp;quot;Matches&amp;quot; and &amp;quot;404&amp;quot;. They are written in HTML and can be found in each language directory:&lt;/p&gt;
 &lt;pre class=&quot;language-plain&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-plain&quot;&gt;src
@@ -714,9 +1053,9 @@ tags:
      ├── about.html
      ├── blog.html
      └── 404.html&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;http://localhost:8080/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
+&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
 &lt;h2&gt;Add posts&lt;/h2&gt;
-&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;http://localhost:8080/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Check markup validity&lt;/h2&gt;
 &lt;p&gt;The starter template comes with commands and dependencies to check HTML and CSS validity using &lt;a href=&quot;https://validator.github.io/validator/&quot;&gt;W3C&#39;s vnu-jar&lt;/a&gt;. However, vnu-jar checker is written in Java, so you will have to install a Java Runtime Environment to make these commands work. I recommend the free and excellent &lt;a href=&quot;https://adoptium.net/temurin/&quot;&gt;Eclipse Temurin&lt;/a&gt;.&lt;br /&gt;
 You can then check the HTML validity with:&lt;/p&gt;
@@ -732,13 +1071,13 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run check:css:win &lt;span class=&quot;token comment&quot;&gt;# with npm on Window systems&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; check:css:win &lt;span class=&quot;token comment&quot;&gt;# with Yarn on Windows systems&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;h2&gt;Check site metrics; build; deploy&lt;/h2&gt;
-&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;http://localhost:8080/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;https://lordscricket.org.au/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Build and deploy&lt;/h2&gt;
-&lt;p&gt;Our blog is ready to be put online. This can be done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;http://localhost:8080/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
+&lt;p&gt;Our blog is ready to be put online. This can be done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;https://lordscricket.org.au/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 1990 10:30:00 +0000</pubDate>
         <dc:creator>System-generated</dc:creator>
-        <guid>http://localhost:8080/en/blog/archv/get-started/</guid>
+        <guid>https://lordscricket.org.au/en/blog/archv/get-started/</guid>
       </item>
       
     
