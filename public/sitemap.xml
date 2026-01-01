@@ -192,15 +192,6 @@
     
        
         <url>
-            <loc>http://localhost:8080/en/about/</loc>
-            
-            <lastmod>2025-12-31T03:03:51</lastmod>
-            
-        </url>
-        
-    
-       
-        <url>
             <loc>http://localhost:8080/en/blog/</loc>
             
             <lastmod>2025-12-31T03:03:51</lastmod>
@@ -220,15 +211,6 @@
        
         <url>
             <loc>http://localhost:8080/en/tags/all/</loc>
-            
-            <lastmod>2025-12-31T03:03:51</lastmod>
-            
-        </url>
-        
-    
-       
-        <url>
-            <loc>http://localhost:8080/fr/404.html</loc>
             
             <lastmod>2025-12-31T03:03:51</lastmod>
             
@@ -264,7 +246,7 @@
     
        
         <url>
-            <loc>http://localhost:8080/fr/tags/all/</loc>
+            <loc>http://localhost:8080/tags/all/</loc>
             
             <lastmod>2025-12-31T03:03:51</lastmod>
             
@@ -276,15 +258,6 @@
             <loc>http://localhost:8080/</loc>
             
             <lastmod>2025-12-31T03:03:51</lastmod>
-            
-        </url>
-        
-    
-       
-        <url>
-            <loc>http://localhost:8080/en/rules-green-ball/</loc>
-            
-            <lastmod>2025-12-31T03:06:29</lastmod>
             
         </url>
         
@@ -321,6 +294,24 @@
             <loc>http://localhost:8080/andrew/</loc>
             
             <lastmod>2025-12-31T03:06:29</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/about/</loc>
+            
+            <lastmod>2025-12-31T06:00:25</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>http://localhost:8080/en/rules-green-ball/</loc>
+            
+            <lastmod>2026-01-01T02:10:02</lastmod>
             
         </url>
         

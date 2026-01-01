@@ -1,2 +1,5 @@
 /en/* /en/404.html 404
 /fr/* /fr/404.html 404
+/index.html /en/index.html
+/index /en/index.html
+/ /en/index.html
