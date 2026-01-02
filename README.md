@@ -21,7 +21,7 @@
 * Restructure files so that posts == Match Reports; stats==Stats (not About); Matches == blog; fix /andrew
 * Fix redirect
 * Fix themes to be dynamic, removing static html code
-* Improve deployment (deployment bash script?)
+* Improve deployment (deployment bash script?) ![Done?] (badly)
 * Update credits/acknowledgements
 
 # About / Credits (forked from [Polyglot-Tech-Blog](https://florent_tassy.gitlab.io/polyglot-tech-blog))
