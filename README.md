@@ -1,6 +1,6 @@
 [![View a demo of the 11ty starter: GitLab Pages](https://img.shields.io/static/v1?label=View+on+GitLab+Pages&message=florent_tassy.gitlab.io/polyglot-tech-blog&color=informational&style=flat-square)](https://florent_tassy.gitlab.io/polyglot-tech-blog) [![View on Netlify](https://img.shields.io/static/v1?label=View+on+Netlify&message=https://polyglot-tech-blog.netlify.app&color=informational&style=flat-square)](https://polyglot-tech-blog.netlify.app) [![View on GitHub Pages](https://img.shields.io/static/v1?label=View+on+GitHub+Pages&message=https://ftassy.github.io/Polyglot-Tech-Blog&color=informational&style=flat-square)](https://ftassy.github.io/Polyglot-Tech-Blog)
 
-# Lords Cricket Website (Powered by Eleventy, **[11ty.dev](https://11ty.dev)** and *Polyglot Tech Blog* Starter
+# Lords Cricket Website (Powered by Eleventy, **[11ty.dev](https://11ty.dev)** and *Polyglot Tech Blog* Starter)
 * For complaints & bad suggestions - contact Andrew
 * For really obvious issues like typos or half the page being green - keep it to yourself (I probably know already)
 * For obscure issues contact Joshua M at lordscricket (at) yourgod.info ([yourgod.info](yourgod.info) is my domain)
