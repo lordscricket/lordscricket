@@ -1,12 +1,12 @@
 <div class="card" typeof="Person" {% if data.authorUri %}resource="{{ data.authorUri }}" {% endif %}>
-    <header style="background-color: var(--color-primary); margin: -1rem -2rem; height: 12rem;">
-        <span hidden property="name">The Polyglot Tech Blog cat</span>
+    <header style="background-color: var(--color-primary); margin: -1rem -2rem; height: 27rem;">
+        <span hidden property="name">Lords Cricket Club, Adelaide (Dec 2025)</span>
         <span class="is-center">
-            <img src="{{ '/img/profile.svg' | url }}" alt="{{ data.author }}" width="200"
-                 style="padding-top: 3rem; overflow: visible;" property="image">
+            <img src="{{ '/img/profile.png' | url }}" alt="{{ data.author }}" width="298"
+                 style="padding-bottom: 12; padding-top: 12px; overflow: visible;" property="image">
         </span>
     </header>
-    <p style="padding-top: 6rem;" property="description">
+    <p style="padding-top: 4rem;" property="description">
         {{ aboutMe }}
     </p>
     <footer>
