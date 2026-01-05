@@ -1,5 +1,5 @@
-name: Build and deploy Polyglot Tech Blog
-run-name: Building and deploying Polyglot Tech Blog
+name: Build and deploy Lords Cricket Dev Site
+run-name: Building and deploying Lords Cricket Dev Site
 
 on:
     # Runs on pushes targeting the default branch
