@@ -43,7 +43,7 @@ jobs:
             - name: Create the output directory
               run: cp --recursive ./public ./_site
             - name: Upload artifact
-              uses: actions/upload-pages-artifact@v1
+              uses: actions/upload-pages-artifact@v4
             - name: Install Java
               uses: actions/setup-java@v3
               with:
