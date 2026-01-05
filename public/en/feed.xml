@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://localhost:8080" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://lordscricket.org.au" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lords Cricket</title>
-    <link>http://localhost:8080/en/feed.xml</link>
-    <atom:link href="http://localhost:8080/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://lordscricket.org.au/en/feed.xml</link>
+    <atom:link href="https://lordscricket.org.au/en/feed.xml" rel="self" type="application/rss+xml"/>
     <description>English</description>
     <language>en</language>
     
@@ -11,12 +11,12 @@
       
       <item>
         <title>Down to 2 balls, 4 runs and 5 fingers...</title>
-        <link>http://localhost:8080/en/blog/2025-26/2025-12-14/</link>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</link>
         <description>&lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col&quot;&gt;
 						&lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;img src=&quot;http://localhost:8080/img/header.png&quot; alt=&quot;LordsCricket banner with green balls, maximums and maximum carnage&quot; /&gt; &lt;/div&gt;
+  &lt;img src=&quot;https://lordscricket.org.au/img/header.png&quot; alt=&quot;LordsCricket banner with green balls, maximums and maximum carnage&quot; /&gt; &lt;/div&gt;
 	&lt;br /&gt;
 
 &lt;div class=&quot;container&quot;&gt;
@@ -75,14 +75,14 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/h1&gt;&lt;/div&gt;
 
         &lt;div class=&quot;col-4&quot; style=&quot;padding: 0rem;&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/img/2025-26/img-1412-1.jpg&quot; target=&quot;_blank&quot; title=&quot;Click to open in a new tab.&quot;&gt;&lt;img src=&quot;http://localhost:8080/img/2025-26/img-1412-1.jpg&quot; alt=&quot;Group Photo: 10 men wearing hats and running shoes, a canopy of gumtrees behind. Credit: Steph&quot; min-height=&quot;286&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/img/2025-26/img-1412-1.jpg&quot; target=&quot;_blank&quot; title=&quot;Click to open in a new tab.&quot;&gt;&lt;img src=&quot;https://lordscricket.org.au/img/2025-26/img-1412-1.jpg&quot; alt=&quot;Group Photo: 10 men wearing hats and running shoes, a canopy of gumtrees behind. Credit: Steph&quot; min-height=&quot;286&quot; /&gt;&lt;/a&gt;
             &lt;hr style=&quot;background-color: transparent&quot; /&gt;
 
   &lt;div style=&quot;margin-top: 120px; text-align: center;&quot;&gt;
-    &lt;img src=&quot;http://localhost:8080/img/2025-26/gatting-bowled.webp&quot; alt=&quot;Mike Gatting with surprised look as a leg break beats him. Ian healy is jubilant in celebration behind an airborne cricket bail &quot; max-height=&quot;228&quot; width=&quot;186&quot; height=&quot;228&quot; style=&quot;display: inline-block;&quot; /&gt;
+    &lt;img src=&quot;https://lordscricket.org.au/img/2025-26/gatting-bowled.webp&quot; alt=&quot;Mike Gatting with surprised look as a leg break beats him. Ian healy is jubilant in celebration behind an airborne cricket bail &quot; max-height=&quot;228&quot; width=&quot;186&quot; height=&quot;228&quot; style=&quot;display: inline-block;&quot; /&gt;
     ↼ Gatting bowled. [poor depiction, Smith, I. 7 (6).]&lt;br /&gt;
 		&lt;/div&gt;
-&lt;img src=&quot;http://localhost:8080/img/2025-26/warne-gatting-celebrate.webp&quot; alt=&quot;Rear view of defeated gatting is shown behind his stumps, bail missing; Healy is approaching Shane Warne for a bear hug while Warne is looking joyous and surprised, celebrating with a curled fist to the skies.&quot; max-height=&quot;206&quot; /&gt;
+&lt;img src=&quot;https://lordscricket.org.au/img/2025-26/warne-gatting-celebrate.webp&quot; alt=&quot;Rear view of defeated gatting is shown behind his stumps, bail missing; Healy is approaching Shane Warne for a bear hug while Warne is looking joyous and surprised, celebrating with a curled fist to the skies.&quot; max-height=&quot;206&quot; /&gt;
  Warney celebrates [worse depiction, Miller, 1/29, 5ov.]&lt;!-- Wrap the bottom images + captions in a container and push it down --&gt;
 &lt;/div&gt;
 
@@ -98,7 +98,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -109,7 +109,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
             &lt;/a&gt;
         &lt;/p&gt;
@@ -124,7 +124,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -135,7 +135,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
             &lt;/a&gt;
         &lt;/p&gt;
@@ -150,7 +150,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25-1/&quot; property=&quot;url&quot;&gt;ANZAC-Whack: A second generation&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25-1/&quot; property=&quot;url&quot;&gt;ANZAC-Whack: A second generation&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -161,7 +161,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25-1/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25-1/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
             &lt;/a&gt;
         &lt;/p&gt;
@@ -176,7 +176,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-04-25-1/&quot; property=&quot;url&quot;&gt;ANZAC-Whack: A second generation&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-04-25-1/&quot; property=&quot;url&quot;&gt;ANZAC-Whack: A second generation&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -187,7 +187,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-04-25-1/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-04-25-1/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
             &lt;/a&gt;
         &lt;/p&gt;
@@ -202,7 +202,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/get-started/&quot; property=&quot;url&quot;&gt;Get started with Polyglot Tech Blog template&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/get-started/&quot; property=&quot;url&quot;&gt;Get started with Polyglot Tech Blog template&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -213,7 +213,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/get-started/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/get-started/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 In this post, we are going to see what to do to get Polyglot Tech Blog starter running with your content
             &lt;/a&gt;
         &lt;/p&gt;
@@ -228,7 +228,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/colors/&quot; property=&quot;url&quot;&gt;Customize the colors&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/colors/&quot; property=&quot;url&quot;&gt;Customize the colors&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -239,7 +239,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/colors/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/colors/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 Let&amp;#39;s see how we can customize the template colors 🎨
             &lt;/a&gt;
         &lt;/p&gt;
@@ -259,7 +259,7 @@ runs with a delivery spare.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;</description>
         <pubDate>Wed, 24 Dec 2025 22:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-26/2025-12-14/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</guid>
       </item>
       
     
@@ -267,8 +267,8 @@ runs with a delivery spare.&lt;/p&gt;
       
       <item>
         <title>Green Ball Meets Multigenerational - ANZAC-Whack</title>
-        <link>http://localhost:8080/en/blog/2025-26/2025-04-25/</link>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:8080/img/img-2504.jpg&quot; alt=&quot;cricket&quot; /&gt;&lt;/p&gt;
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</link>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/new/img/img-2504.jpg&quot; alt=&quot;cricket&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A specially eventful cricket match spanning generations, seasons;
 pagelength &amp;amp; title-length. Led by Brother vs Brother to enable Sis v Sis
 and Husband v Wife.&lt;/p&gt;
@@ -473,7 +473,7 @@ thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;g
 </description>
         <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-26/2025-04-25/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</guid>
       </item>
       
     
@@ -481,7 +481,7 @@ thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;g
       
       <item>
         <title>ANZAC-Whack: A second generation</title>
-        <link>http://localhost:8080/en/blog/2025-26/2025-04-25-1/</link>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-04-25-1/</link>
         <description>&lt;p&gt;INSERT 8th wicket partnership here J. R. Miller not to be confused with
 her husband J. G. Miller came out to bat, and came out of her crease a
 good number of times as well; tempting S. Moseley to win fielding points
@@ -514,7 +514,7 @@ ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-26/2025-04-25-1/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-04-25-1/</guid>
       </item>
       
     
@@ -522,7 +522,7 @@ ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
       
       <item>
         <title>ANZAC-Whack: A second generation</title>
-        <link>http://localhost:8080/en/blog/2025-04-25-1/</link>
+        <link>https://lordscricket.org.au/en/blog/2025-04-25-1/</link>
         <description>&lt;p&gt;INSERT 8th wicket partnership here J. R. Miller not to be confused with
 her husband J. G. Miller came out to bat, and came out of her crease a
 good number of times as well; tempting S. Moseley to win fielding points
@@ -555,7 +555,7 @@ ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-04-25-1/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-04-25-1/</guid>
       </item>
       
     
@@ -563,7 +563,7 @@ ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
       
       <item>
         <title>Get started with Polyglot Tech Blog template</title>
-        <link>http://localhost:8080/en/blog/get-started/</link>
+        <link>https://lordscricket.org.au/en/blog/get-started/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;You have found Polyglot Tech Blog and wish to use it as a basis for your blog. Great! Let&#39;s go through the steps to get the code and adapt it to your needs.&lt;/p&gt;
 &lt;h2&gt;Get the code and install the dependencies&lt;/h2&gt;
@@ -655,9 +655,9 @@ ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
 &lt;li&gt;You may personalize &lt;code&gt;src &amp;gt; index.html&lt;/code&gt; and &lt;code&gt;src &amp;gt; 404.html&lt;/code&gt;, but that&#39;s not absolutely necessary.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Adapt the style&lt;/h2&gt;
-&lt;p&gt;You can go to &lt;a href=&quot;http://localhost:8080/en/blog/colors&quot;&gt;the article about colors&lt;/a&gt; for further details about this step.&lt;/p&gt;
+&lt;p&gt;You can go to &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/colors&quot;&gt;the article about colors&lt;/a&gt; for further details about this step.&lt;/p&gt;
 &lt;h2&gt;Add or remove languages&lt;/h2&gt;
-&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;http://localhost:8080/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Add static pages&lt;/h2&gt;
 &lt;p&gt;The starter comes with four static page: &amp;quot;Home&amp;quot;, &amp;quot;Stats&amp;quot;, &amp;quot;Matches&amp;quot; and &amp;quot;404&amp;quot;. They are written in HTML and can be found in each language directory:&lt;/p&gt;
 &lt;pre class=&quot;language-plain&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-plain&quot;&gt;src
@@ -672,9 +672,9 @@ ot a bad effort for an old Gregory; but he wasn&#39;t puffed out yet!&lt;/p&gt;
      ├── about.html
      ├── blog.html
      └── 404.html&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;http://localhost:8080/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
+&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
 &lt;h2&gt;Add posts&lt;/h2&gt;
-&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;http://localhost:8080/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Check markup validity&lt;/h2&gt;
 &lt;p&gt;The starter template comes with commands and dependencies to check HTML and CSS validity using &lt;a href=&quot;https://validator.github.io/validator/&quot;&gt;W3C&#39;s vnu-jar&lt;/a&gt;. However, vnu-jar checker is written in Java, so you will have to install a Java Runtime Environment to make these commands work. I recommend the free and excellent &lt;a href=&quot;https://adoptium.net/temurin/&quot;&gt;Eclipse Temurin&lt;/a&gt;.&lt;br /&gt;
 You can then check the HTML validity with:&lt;/p&gt;
@@ -690,15 +690,15 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run check:css:win &lt;span class=&quot;token comment&quot;&gt;# with npm on Window systems&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; check:css:win &lt;span class=&quot;token comment&quot;&gt;# with Yarn on Windows systems&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;h2&gt;Check various metrics about your blog&lt;/h2&gt;
-&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;http://localhost:8080/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;https://lordscricket.org.au/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Build and deploy&lt;/h2&gt;
-&lt;p&gt;Our blog is ready to be put online. This can bon done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;http://localhost:8080/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
+&lt;p&gt;Our blog is ready to be put online. This can bon done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;https://lordscricket.org.au/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;We have seen all basic steps to get a Polyglot Tech Blog up and running with your content. If you followed all these steps, you have now an online blog. Congratulations! Of course, many more customizations are possible, so feel free to experiment and share your ideas on &lt;a href=&quot;https://gitlab.com/florent_tassy/polyglot-tech-blog&quot;&gt;GitLab&lt;/a&gt; 😉&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Jul 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/get-started/</guid>
+        <guid>https://lordscricket.org.au/en/blog/get-started/</guid>
       </item>
       
     
@@ -706,7 +706,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Customize the colors</title>
-        <link>http://localhost:8080/en/blog/colors/</link>
+        <link>https://lordscricket.org.au/en/blog/colors/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The colors of a web page are the most fundamental thing to choose in order to feel at home and to reflect who we are. Let&#39;s see where Polyglot Tech Blog colors are defined in order to modify them.&lt;/p&gt;
 &lt;h2&gt;Modify the right file&lt;/h2&gt;
@@ -757,11 +757,11 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;p&gt;These two templates actually contain CSS and result in two CSS style sheets that are alternatively added depending on the selected color schema. By default, the light theme is the &amp;quot;prism-coy&amp;quot; theme provided with PrismJS. Any theme provided as an NPM package could be added the same way.&lt;/p&gt;
 &lt;p&gt;The dark theme is based on &lt;a href=&quot;https://github.com/PrismJS/prism-themes/blob/master/themes/prism-gruvbox-dark.css&quot;&gt;Gruvbox dark theme by Azat S.&lt;/a&gt;. However, it was a bit modified to pass the automated accessibility tests done by &lt;a href=&quot;https://www.deque.com/axe/browser-extensions/&quot;&gt;axe browser extension&lt;/a&gt;. So in that case, the CSS code was simply copied and modified in the &lt;code&gt;src &amp;gt; css &amp;gt; code-highlight-dark.njk&lt;/code&gt; file.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;http://localhost:8080/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
+&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Jul 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/colors/</guid>
+        <guid>https://lordscricket.org.au/en/blog/colors/</guid>
       </item>
       
     
@@ -769,7 +769,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Add language</title>
-        <link>http://localhost:8080/en/blog/add-language/</link>
+        <link>https://lordscricket.org.au/en/blog/add-language/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;div&gt;Polyglot Tech Blog comes in English and French to show in action. However, it is possible to add as many languages as you want. Let&#39;s show how by adding German 🇩🇪&lt;/div&gt;
 &lt;h2&gt;Update data.json&lt;/h2&gt;
@@ -841,7 +841,7 @@ You can then check the HTML validity with:&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Jul 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/add-language/</guid>
+        <guid>https://lordscricket.org.au/en/blog/add-language/</guid>
       </item>
       
     
@@ -849,7 +849,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Deploy</title>
-        <link>http://localhost:8080/en/blog/deploy/</link>
+        <link>https://lordscricket.org.au/en/blog/deploy/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;div&gt;Now that we have adapted the template with our content, we would like to deploy it on the web. Let&#39;s go through some common deployment scenarios.&lt;/div&gt;
 &lt;h2&gt;Deploy manually&lt;/h2&gt;
@@ -911,7 +911,7 @@ You can then check the HTML validity with:&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Jun 2023 21:30:00 +0000</pubDate>
         <dc:creator>Florent Tassy</dc:creator>
-        <guid>http://localhost:8080/en/blog/deploy/</guid>
+        <guid>https://lordscricket.org.au/en/blog/deploy/</guid>
       </item>
       
     
@@ -919,15 +919,15 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Welcome!</title>
-        <link>http://localhost:8080/en/blog/welcome/</link>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:8080/img/header.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+        <link>https://lordscricket.org.au/en/blog/welcome/</link>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/new/img/header.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;&amp;lt;&amp;lt;&amp;lt; Click on a match date to sign up to play&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;Comments off&lt;/code&gt;&lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
 </description>
         <pubDate>Sat, 25 Jul 1992 21:30:00 +0000</pubDate>
         <dc:creator>Andrew Turner</dc:creator>
-        <guid>http://localhost:8080/en/blog/welcome/</guid>
+        <guid>https://lordscricket.org.au/en/blog/welcome/</guid>
       </item>
       
     
@@ -935,7 +935,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Documentation: Colors</title>
-        <link>http://localhost:8080/en/blog/archv/colors/</link>
+        <link>https://lordscricket.org.au/en/blog/archv/colors/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The colors of a web page are the most fundamental thing to choose in order to feel at home and to reflect who we are. Let&#39;s see where Polyglot Tech Blog colors are defined in order to modify them.&lt;/p&gt;
 &lt;h2&gt;Modify the right file&lt;/h2&gt;
@@ -986,11 +986,11 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;p&gt;These two templates actually contain CSS and result in two CSS style sheets that are alternatively added depending on the selected color schema. By default, the light theme is the &amp;quot;prism-coy&amp;quot; theme provided with PrismJS. Any theme provided as an NPM package could be added the same way.&lt;/p&gt;
 &lt;p&gt;The dark theme is based on &lt;a href=&quot;https://github.com/PrismJS/prism-themes/blob/master/themes/prism-gruvbox-dark.css&quot;&gt;Gruvbox dark theme by Azat S.&lt;/a&gt;. However, it was a bit modified to pass the automated accessibility tests done by &lt;a href=&quot;https://www.deque.com/axe/browser-extensions/&quot;&gt;axe browser extension&lt;/a&gt;. So in that case, the CSS code was simply copied and modified in the &lt;code&gt;src &amp;gt; css &amp;gt; code-highlight-dark.njk&lt;/code&gt; file.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;http://localhost:8080/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
+&lt;p&gt;We have seen what files we have to modify or replace to change our blog colors. But be wise when choosing your colors and keep in mind that accessibility depends a lot on colors contrast. If you want to assess the accessibility of your color schema, the article about &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/metrics&quot;&gt;blog metrics&lt;/a&gt; should give you more insight.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 1990 10:30:01 +0000</pubDate>
         <dc:creator>System-generated</dc:creator>
-        <guid>http://localhost:8080/en/blog/archv/colors/</guid>
+        <guid>https://lordscricket.org.au/en/blog/archv/colors/</guid>
       </item>
       
     
@@ -998,7 +998,7 @@ You can then check the HTML validity with:&lt;/p&gt;
       
       <item>
         <title>Documentation: Add a post</title>
-        <link>http://localhost:8080/en/blog/add-post/</link>
+        <link>https://lordscricket.org.au/en/blog/add-post/</link>
         <description>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Matches are hereby referred to as &amp;quot;Posts&amp;quot; and &amp;quot;Match Reports&amp;quot; collection as &amp;quot;Blog&amp;quot;. A blog is basically made of a few static pages and many articles. Let&#39;s see then how we can create a new article in all that languages that our blog supports.&lt;/p&gt;
 &lt;h2&gt;Create the files&lt;/h2&gt;
@@ -1037,7 +1037,7 @@ tags:
 </description>
         <pubDate>Mon, 01 Jan 1990 10:30:01 +0000</pubDate>
         <dc:creator>System-generated</dc:creator>
-        <guid>http://localhost:8080/en/blog/add-post/</guid>
+        <guid>https://lordscricket.org.au/en/blog/add-post/</guid>
       </item>
       
     
@@ -1045,9 +1045,9 @@ tags:
       
       <item>
         <title>Getting starting with this template</title>
-        <link>http://localhost:8080/en/blog/archv/get-started/</link>
+        <link>https://lordscricket.org.au/en/blog/archv/get-started/</link>
         <description>&lt;h2&gt;Add or remove languages&lt;/h2&gt;
-&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;http://localhost:8080/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Removing a language is simply deleting the corresponding directory and updating the &lt;code&gt;src &amp;gt; _data &amp;gt; data.json&lt;/code&gt; file accordingly. When adding a new language, there are a bit more things to consider, so you can consult &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-language/&quot;&gt;the dedicated article&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Add static pages&lt;/h2&gt;
 &lt;p&gt;The starter comes with four static page: &amp;quot;Home&amp;quot;, &amp;quot;Stats&amp;quot;, &amp;quot;Matches&amp;quot; and &amp;quot;404&amp;quot;. They are written in HTML and can be found in each language directory:&lt;/p&gt;
 &lt;pre class=&quot;language-plain&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-plain&quot;&gt;src
@@ -1062,9 +1062,9 @@ tags:
      ├── about.html
      ├── blog.html
      └── 404.html&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;http://localhost:8080/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
+&lt;p&gt;You may decide to add some static pages. Here as well, there is a &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/add-page&quot;&gt;dedicated article&lt;/a&gt; that covers the topic.&lt;/p&gt;
 &lt;h2&gt;Add posts&lt;/h2&gt;
-&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;http://localhost:8080/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is probably the most basic thing expected from a blog start. You can do this by following the instructions on the &lt;a href=&quot;https://lordscricket.org.au/en/blog/add-post/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Check markup validity&lt;/h2&gt;
 &lt;p&gt;The starter template comes with commands and dependencies to check HTML and CSS validity using &lt;a href=&quot;https://validator.github.io/validator/&quot;&gt;W3C&#39;s vnu-jar&lt;/a&gt;. However, vnu-jar checker is written in Java, so you will have to install a Java Runtime Environment to make these commands work. I recommend the free and excellent &lt;a href=&quot;https://adoptium.net/temurin/&quot;&gt;Eclipse Temurin&lt;/a&gt;.&lt;br /&gt;
 You can then check the HTML validity with:&lt;/p&gt;
@@ -1080,13 +1080,13 @@ You can then check the HTML validity with:&lt;/p&gt;
 &lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run check:css:win &lt;span class=&quot;token comment&quot;&gt;# with npm on Window systems&lt;/span&gt;
 &lt;span class=&quot;token function&quot;&gt;yarn&lt;/span&gt; check:css:win &lt;span class=&quot;token comment&quot;&gt;# with Yarn on Windows systems&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;h2&gt;Check site metrics; build; deploy&lt;/h2&gt;
-&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;http://localhost:8080/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The number of things you can check to ensure the &lt;a href=&quot;https://www.w3.org/WAI/&quot;&gt;accessibility&lt;/a&gt; (&lt;abbr title=&quot;Accessibility&quot;&gt;a11y&lt;/abbr&gt;), performance, &lt;a href=&quot;https://en.wikipedia.org/wiki/Search_engine_optimization&quot;&gt;Search Engine Optimization&lt;/a&gt; (&lt;abbr title=&quot;Search Engine Optimization&quot;&gt;SEO&lt;/abbr&gt;), validity... of a website is unlimited and may require some advanced skills or tools. Some simple and basic checks are covered in the &lt;a href=&quot;https://lordscricket.org.au/en/blog/metrics/&quot;&gt;dedicated article&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;Build and deploy&lt;/h2&gt;
-&lt;p&gt;Our blog is ready to be put online. This can be done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;http://localhost:8080/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
+&lt;p&gt;Our blog is ready to be put online. This can be done on multiple ways depending on where your code is and who hosts the blog. This &lt;a href=&quot;https://lordscricket.org.au/en/blog/deploy/&quot;&gt;article&lt;/a&gt; covers some common scenarios.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 1990 10:30:00 +0000</pubDate>
         <dc:creator>System-generated</dc:creator>
-        <guid>http://localhost:8080/en/blog/archv/get-started/</guid>
+        <guid>https://lordscricket.org.au/en/blog/archv/get-started/</guid>
       </item>
       
     
