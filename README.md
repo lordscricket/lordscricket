@@ -16,13 +16,16 @@
 ## KNOWN ISSUES / To do:
 * Improve boring fonts
 * Fix fonts on Stats page (i.e. the header)
+* Prettier fonts (consider google fonts)
+* Github pages refuses deployment due to HTML errors; worth going through these to fix them
 
 ## TODO (Technical)
 * Restructure files so that posts == Match Reports; stats==Stats (not About); Matches == blog; fix /andrew
-* Fix redirect
 * Fix themes to be dynamic, removing static html code
+  - SASS seems easy to configure now I've spent some time in it
 * Improve deployment (deployment bash script?) ![Done?] (badly)
-* Update credits/acknowledgements
+* Update credits/acknowledgements/ /andrew (copy about section)
+[x] ~~Fix redirect~~
 
 # About / Credits (forked from [Polyglot-Tech-Blog](https://florent_tassy.gitlab.io/polyglot-tech-blog))
 About Polyglot Tech Blog: An 11ty starter project for multilingual personal pages and blogs:
