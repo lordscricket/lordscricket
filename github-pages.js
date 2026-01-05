@@ -1,4 +1,4 @@
 module.exports = { 
-    baseUrl: "https://ftassy.github.io/Polyglot-Tech-Blog", 
-    pathPrefix: "Polyglot-Tech-Blog" 
+    baseUrl: "https://lordscricket.github.io/dev-site", 
+    pathPrefix: "dev-site" 
 };
