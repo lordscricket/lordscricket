@@ -21,21 +21,20 @@
             <!-- Logo -->
             <!-- <span style="color: #555;">Cricket</span> -->
             <div class="nav-left" >
-                <a class="brand" href="{{ '/' | locale_url | url }}" title="{{ home }}" style="color: #a8a49a;">
+                <a class="brand" href="{{ '/' | locale_url | url }}" title="{{ home }}";>
                     <img src="{{ '/img/green-ball-hand.png' | url }}" alt="Lords Cricket logo" width="60" height="49">
                     {{ data.title[lang] or data.title[data.languages[0]] }}
                 </a>
             </div><br>
-                <p style="color: #a8a49a;">5-a-side tennis ball cricket for wannabes and hasbeens</p>
+                <p>5-a-side tennis ball cricket for wannabes and hasbeens</p>
             <div class="nav-right">
                 <!-- Pages -->
                 <div class="tabs">
-                    <a href="{{ '/' | locale_url | url }}" style="color: #000000;">{{ home }}</a>
-                    <a href="{{ '/about' | locale_url | url }}" style="color: #000000;">{{ about }}</a>
-                    <a href="{{ '/blog' | locale_url | url }}" style="color: #000000;">{{ blog }}</a>
-                    <a href="{{ '/rules-green-ball' | locale_url | url }}" style="color: #000000;">{{ rules }}</a>
-                    <a href="{{ '/season-current' | locale_url | url }}" style="color: #000000;">{{ season }}</a>
-                    <!-- Language selector -->
+                    <a href="{{ '/' | locale_url | url }}"> {{ home }}</a>
+                    <a href="{{ '/about' | locale_url | url }}"> {{ about }}</a>
+                    <a href="{{ '/blog' | locale_url | url }}"> {{ blog }}</a>
+                    <a href="{{ '/rules-green-ball' | locale_url | url }}"> {{ rules }}</a>
+                    <a href="{{ '/season-current' | locale_url | url }}"> {{ season }}</a>
                     <!-- Dark / light mode switcher -->
                     <div id="nightModeWrapper">
                         <button id="nightModeButton" class="button icon-only" title="Color schema switch"
