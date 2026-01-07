@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@400;700&display=swap");
+/* Colours */
+/*========================================*/
 :root {
   --bg-color: #F3F6DC;
   --bg-secondary-color: #f3f3f6;
@@ -38,17 +41,30 @@
   --link-color: #dddddd;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montagu Slab", serif;
+  line-height: 140%;
+  margin: 0 0 0.7em 0;
+}
+
+.nav .brand {
+  color: #a8a49a;
+}
+
 body {
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", "sans-serif";
   width: 100vw;
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
 }
 body nav {
+  font-family: "Montagu Slab", serif;
   width: 100% !important;
   margin-left: auto;
   margin-right: auto;
   background-color: var(--navbar-bg-color);
+  color: #a8a49a;
 }
 body nav img {
   max-height: none !important;
@@ -57,7 +73,7 @@ body nav .tabs {
   align-items: flex-end;
 }
 body nav .tabs a {
-  color: var(--font-color);
+  color: #000000;
 }
 body nav .tabs details {
   border-bottom: 2px solid var(--color-lightGrey);
