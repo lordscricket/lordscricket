@@ -1,24 +1,63 @@
 ---
-title: "Lords Cricket Club, Adelaide SA"
+title: "Lords Cricket Club (ADL) | Andrew"
 layout: "base.html"
 ---
-
-<div class="container">
     <div class="row">
-        <div class="col-8">
-						<div style="text-align: center;">
-  <img src="/img/header.png" alt="LordsCricket banner with green balls, maximums and maximum carnage"> </div>
-            <h1>About Lords Cricket</h1>
+        <div class="col-7">
+<div class="container">
+<div class="card" typeof="Person" {% if data.authorUri %}resource="{{ data.authorUri }}" {% endif %}>
+    <header style="background-color: var(--color-primary); margin: -1rem -2rem; height: 36rem ;">
+        <span hidden property="name">The Council of Lords Cricket</span>
+        <span class="is-center">
+            <img src="{{ '/img/billybowden_400x400.jpg' | url }}" alt="{{ data.author }}" width="298" style="padding-bottom: 35px; padding-top: 1rem; overflow: visible;" property="image">
+        </span>
+    </header>
+    <p style="padding-top: 3em;" property="description">
+                    <strong><em>The Council of Lords Cricket</em></strong>, <i>pictorialised</i>; artistic liberty taken;<br /> <i>absentees</i>: all voting members.</p>
+                </div>
+    <footer>
+        <hr>
+        <div class="row text-center">
+            <div class="col">
+                <a href="https://x.com/lordscricket" aria-label="x-twitter" property="sameAs">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 24 24" width="24" fill="currentColor">
+                    <path d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/>
+                            </svg>
+                            </svg>
+                        </a>
+                    </div>
+
+                    <div class="col">
+                        <a href="https://www.youtube.com/@lordscricket" aria-label="YouTube" property="sameAs">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 24 24" width="24" fill="currentColor">
+                   <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+                                    <circle cx="15.156" cy="4.858" r="1.237"></circle>
+                                </svg>
+                        </a>
+                    </div>
+            </div>
+        </footer>
+    </div>
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-9">
+            <h1>About Us</h1>
             <p>
-						Green Ball cricket is fun!
-            </p>
-            <h4>About the site</h4>
+Lords Cricket is slightly organised, easy to play, 5ish-a-side tennis-ball cricket. It’s fun and it’s pretentious. We keep scores. We keep stats. We keep rolling the arm over.
+</p>
+<p>Lords Cricket is for those of us who love the game but can’t fathom the idea of (a) playing more than about once a month over the summer, (b) training in any form, (c) safety equipment or (d) umpires. We do, however, like the idea of having a cricket “career” – a batting average and bowling strike rate, and particularly, laughing at each other.
+</p>
+<p>Lords Cricket works just fine with players of mixed ages and abilities – and only 10 players are needed for a great game. There’s one <a href='/en/rules-green-ball'>simple page of rules</a>.
+</p>
+<p>For more information, email <a href='mailto:andrew.ian.turner@gmail.com'>andrew.ian.turner@gmail.com</a>  On X, (previously Twitter), we’re (previously) @lordscricket
+</p>
+<strong>Host Your Own Games</strong><br>
+Interested in joining our Lords Cricket league? Let us know. As long as you’re not very good.
+        <h4>About the site</h4>
             <p>
-                The website front-end is built with.. <em>Polyglot Tech Blog</em> — a blog starter template using <a style='font-style: italic; font-weight: bold;'
-                    typeof="SoftwareApplication" href="https://www.11ty.dev/" target="_blank"><span
-                        property="name"> 11ty</span></a>  site generator.
-                See <a href="https://gitlab.com/florent_tassy/polyglot-tech-blog"
-                    target="_blank">GitLab</a> for nerdy stuff.
+            The website front-end is built with.. <em>Polyglot Tech Blog</em> — a blog starter template using <a style='font-style: italic; font-weight: bold;' typeof="SoftwareApplication" href="https://www.11ty.dev/" target="_blank"><span property="name"> 11ty</span></a>  site generator.
+            See <a href="https://gitlab.com/florent_tassy/polyglot-tech-blog" target="_blank">GitLab</a> for nerdy stuff.
             </p>
 						<p>
 								The backend (including the scorer, all stats; worms; ball-by-ball viewer et. al.) is managed by <a href='/peter'>Peter W</a> and he is to blame for your batting average looking worse than you expect. The front-end is managed by <a href='/joshua'> Joshua M</a> and he is to blame for this page.
@@ -31,10 +70,8 @@ layout: "base.html"
 A code base derived from
                         <span typeof="Person" resource="https://github.com/NikitaZanella/">
                             <span property="name">
-                                N. Zanella</span></span>'s
-                        <span typeof="SoftwareSourceCode">
-                            <a href="https://github.com/NikitaZanella/11ty-SASS" property="codeRepository">
-                                11ty-SASS
+                                N. Zanella</span></span>'s <span typeof="SoftwareSourceCode">
+                            <a href="https://github.com/NikitaZanella/11ty-SASS" property="codeRepository"> 11ty-SASS
                             </a>
                         </span> starter
                 </li> <li>
@@ -45,11 +82,8 @@ A code base derived from
 Logo (depreciated) derived from
                         <span typeof="Person" resource="http://inipagi.com/">
                             <a href="http://inipagi.com/">
-                                <span property="name">
-                                    inipagi</span></a></span>'s one and found on
-                        <a typeof="WebPage"
-                            href="https://www.iconfinder.com/icons/2620514/employee_job_laptop_seeker_unemployee_work_icon">iconfinder
-                        </a>
+                                <span property="name"> inipagi</span></a></span>'s one and found on
+                        <a typeof="WebPage" href="https://www.iconfinder.com/icons/2620514/employee_job_laptop_seeker_unemployee_work_icon">iconfinder </a>
                 </li>
                 <li>
 Cat derived from <a typeof="WebPage"
@@ -58,13 +92,20 @@ Cat derived from <a typeof="WebPage"
             </ul>
 So long and thanks for all the nerds!
         </div>
+        <div class="col-11">
+						<div style="text-align: center;">
+  <img src="/img/header.png" alt=""> </div>
+</div>
 
-        <div class="col-4" style="padding: 2rem;">
-            {% include "components/bio.html" %}
+        <div class="col-12" style="padding: 2rem;">
             <hr style="background-color: transparent">
             {% include "components/latest-posts.html" %}
         </div>
 
     </div>
 
+</div>
+        <div class="col-12">
+						<div style="text-align: center;">
+  <img src="/img/header.png" alt=""> </div>
 </div>
