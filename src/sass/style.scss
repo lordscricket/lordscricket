@@ -1,3 +1,4 @@
+@import './variables';
 :root {
     --bg-color: #F3F6DC;
     --bg-secondary-color: #f3f3f6;
@@ -43,17 +44,29 @@
     --link-color: #dddddd;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: $accent-font;
+  line-height: 140%;
+  margin: 0 0 0.7em 0;
+}
+.nav .brand {
+    // color: $color-khaki;
+    color: #a8a49a;
+}
 body {
-    width: 100vw;
-    min-height: 100vh;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
+font-family: $main-font;
+width: 100vw;
+min-height: 100vh;
+display: grid;
+grid-template-rows: auto 1fr auto;
 
     nav {
+        font-family: $accent-font;
         width: 100% !important;
         margin-left: auto;
         margin-right: auto;
         background-color: var(--navbar-bg-color);
+        color: #a8a49a;
 
         img {
             max-height: none !important;
@@ -63,7 +76,9 @@ body {
             align-items: flex-end;
 
             a {
-                color: var(--font-color);
+                // color: var(--font-color);
+                // font-weight: 150;
+                color: #000000;
             }
 
             details {
