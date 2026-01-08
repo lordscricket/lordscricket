@@ -2,8 +2,7 @@ name: Create Release with ZIP
 
 on:
   push:
-    tags:
-      - '*'  # Triggers on any tag push, e.g., git push origin v1.0
+
 
 jobs:
   release:
