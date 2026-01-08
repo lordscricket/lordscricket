@@ -2,6 +2,9 @@
 <html lang="{{ lang }}">
 
   <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&display=swap" rel="stylesheet">
   {% include "components/meta.html" %}
     <title>{{ title }}</title>
     <link {% if data.languages[0] === lang %}id="default-lang"{% endif %} rel="alternate" hreflang="{{ lang }}" href="{{ [data.baseUrl, page.url] | join }}">
