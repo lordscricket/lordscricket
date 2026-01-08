@@ -84,15 +84,6 @@
     
        
         <url>
-            <loc>https://lordscricket.org.au/en/</loc>
-            
-            <lastmod>2025-12-31T03:03:51</lastmod>
-            
-        </url>
-        
-    
-       
-        <url>
             <loc>https://lordscricket.org.au/en/tags/all/</loc>
             
             <lastmod>2025-12-31T03:03:51</lastmod>
@@ -105,15 +96,6 @@
             <loc>https://lordscricket.org.au/</loc>
             
             <lastmod>2025-12-31T03:03:51</lastmod>
-            
-        </url>
-        
-    
-       
-        <url>
-            <loc>https://lordscricket.org.au/en/season-current/</loc>
-            
-            <lastmod>2025-12-31T03:06:29</lastmod>
             
         </url>
         
@@ -150,6 +132,24 @@
             <loc>https://lordscricket.org.au/en/andrew/</loc>
             
             <lastmod>2026-01-07T12:11:17</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://lordscricket.org.au/en/season-current/</loc>
+            
+            <lastmod>2026-01-08T03:58:20</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://lordscricket.org.au/en/</loc>
+            
+            <lastmod>2026-01-08T05:00:36</lastmod>
             
         </url>
         
