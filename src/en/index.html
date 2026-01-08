@@ -2,6 +2,10 @@
 title: "Home"
 layout: "base.html"
 ---
+<head><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&display=swap" rel="stylesheet">
+</head>
 
 <div class="container">
     <div class="row">
@@ -25,12 +29,10 @@ Interested in joining our Lords Cricket league? Let us know. As long as you’re
 
         </div>
 
-        <br> <br>        <div class="col-4" style="padding: 0rem;">
-            {% include "components/bio.html" %}
+    <p><div class="col-4" style="padding: 0rem;">
+            {% include "components/bio.html" %}</p></div>
+    <p><div class="col-12" style="padding: 0rem;">
             <hr style="background-color: transparent">
-            {% include "components/latest-posts.html" %}
-        </div>
-
-    </div>
-
+            {% include "components/latest-posts.html" %}</p></div>
 </div>
+
