@@ -1,7 +1,9 @@
 name: Create Release with ZIP
+
 on: [push]
+
 jobs:
-  release:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write  # Required for creating releases and uploading assets
@@ -11,12 +13,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Zip the public folder
-        uses: thedoctor0/zip-release@0.7.6  # Latest version as of now; update if needed
+        uses: thedoctor0/zip-release@0.7.6
         with:
           type: zip
           filename: lords-cricket-site_release-${{ github.ref_name }}.zip
           path: public  # Zips the entire public folder from the repo root
-          # Optional: exclusions: '*.git* /*node_modules/*'  # Add if you need to exclude patterns
+          # exclusions: '*.git* /*node_modules/* .editorconfig'  # Uncomment if needed
 
       - name: Create release and upload ZIP
         uses: ncipollo/release-action@v1.12.0
