@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://lordscricket.org.au/new" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://lordscricket.org.au" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lords Cricket</title>
-    <link>https://lordscricket.org.au/new/en/feed.xml</link>
-    <atom:link href="https://lordscricket.org.au/new/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://lordscricket.org.au/en/feed.xml</link>
+    <atom:link href="https://lordscricket.org.au/en/feed.xml" rel="self" type="application/rss+xml"/>
     <description>English</description>
     <language>en</language>
     
@@ -11,7 +11,7 @@
       
       <item>
         <title>Down to 2 balls, 4 runs and 5 fingers...</title>
-        <link>https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/</link>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</link>
         <description>&lt;div class=&quot;container&quot;&gt;
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col&quot;&gt;
@@ -181,7 +181,7 @@ runs with a delivery spare.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;</description>
         <pubDate>Wed, 24 Dec 2025 22:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</guid>
       </item>
       
     
@@ -189,7 +189,7 @@ runs with a delivery spare.&lt;/p&gt;
       
       <item>
         <title>Green Ball Meets Multigenerational - ANZAC-Whack</title>
-        <link>https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/</link>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</link>
         <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/new/img/img-2504.jpg&quot; alt=&quot;cricket&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A specially eventful cricket match spanning generations, seasons;
 pagelength &amp;amp; title-length. Led by Brother vs Brother to enable Sis v Sis
@@ -395,7 +395,7 @@ thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;g
 </description>
         <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</guid>
       </item>
       
     
@@ -403,7 +403,7 @@ thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;g
       
       <item>
         <title>Welcome!</title>
-        <link>https://lordscricket.org.au/new/en/blog/welcome/</link>
+        <link>https://lordscricket.org.au/en/blog/welcome/</link>
         <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/new/img/header.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;&amp;lt;&amp;lt;&amp;lt; Click on a match date to sign up to play&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;Comments off&lt;/code&gt;&lt;/p&gt;
@@ -411,7 +411,7 @@ thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;g
 </description>
         <pubDate>Sat, 25 Jul 1992 21:30:00 +0000</pubDate>
         <dc:creator>Andrew Turner</dc:creator>
-        <guid>https://lordscricket.org.au/new/en/blog/welcome/</guid>
+        <guid>https://lordscricket.org.au/en/blog/welcome/</guid>
       </item>
       
     

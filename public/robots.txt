@@ -5,4 +5,4 @@ Disallow: /blog/metric
 Disallow: /404
 Disallow: /robots.txt
 Disallow: /fr/*
-Sitemap: https://lordscricket.org.au/new/sitemap.xml
+Sitemap: https://lordscricket.org.au/sitemap.xml
