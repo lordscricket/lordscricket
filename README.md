@@ -14,17 +14,16 @@
 * Annals (stats); and write-ups (in progress)
 
 ## KNOWN ISSUES / To do:
-* Improve boring fonts
-* Fix fonts on Stats page (i.e. the header)
-* Prettier fonts (consider google fonts)
 * Github pages refuses deployment due to HTML errors; worth going through these to fix them
+* ~~Fix fonts on Stats page (i.e. the header)~~
+* ~~Improve boring fonts~~ // ~~Prettier fonts (consider google fonts)~~
 
 ## TODO (Technical)
 * Restructure files so that posts == Match Reports; stats==Stats (not About); Matches == blog; fix /andrew
-* Fix themes to be dynamic, removing static html code
-  - SASS seems easy to configure now I've spent some time in it
 * Improve deployment (deployment bash script?) ![Done?] (badly)
-* Update credits/acknowledgements/ /andrew (copy about section)
+* ~~Update credits/acknowledgements/ /andrew (copy about section)~~
+* ~~Fix themes to be dynamic, removing static html code~~
+  - SASS seems easy to configure now I've spent some time in it
 [x] ~~Fix redirect~~
 
 # About / Credits (forked from [Polyglot-Tech-Blog](https://florent_tassy.gitlab.io/polyglot-tech-blog))
