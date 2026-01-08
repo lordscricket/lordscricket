@@ -16,4 +16,4 @@ jobs:
       uses: ncipollo/release-action@v1.12.0
           with:
             artifacts: "lords-site-packaged.zip"
-            token: "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"
+            token: ""
