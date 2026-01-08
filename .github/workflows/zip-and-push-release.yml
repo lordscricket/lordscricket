@@ -1,20 +1,34 @@
-name: Push, creating an archive
-on: [push]
+name: Create Release with ZIP
+
+on:
+  push:
+    tags:
+      - '*'  # Triggers on any tag push, e.g., git push origin v1.0
+
 jobs:
-  build:
+  release:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for creating releases and uploading assets
+
     steps:
-    - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@0.7.5
-      with:
-        type: 'zip'
-        directory: public
-        filename: 'lords-site-packaged.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig dev.sh testing_data.json *pages.js netlify.js push-production.sh'
-    - name: Upload Release
-      uses: ncipollo/release-action@v1.12.0
-          with:
-            artifacts: "lords-site-packaged.zip"
-            token: ${{ secrets.GITHUB_TOKEN }}
-# st
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Zip the public folder
+        uses: thedoctor0/zip-release@0.7.6  # Latest version as of now; update if needed
+        with:
+          type: zip
+          filename: lords-cricket-site_release-${{ github.ref_name }}.zip
+          path: public  # Zips the entire public folder from the repo root
+          # Optional: exclusions: '*.git* /*node_modules/*'  # Add if you need to exclude patterns
+
+      - name: Create release and upload ZIP
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          artifacts: lords-cricket-site_release-${{ github.ref_name }}.zip  # Path to the ZIP created in the previous step
+          token: ${{ secrets.GITHUB_TOKEN }}  # Securely uses the runtime-generated token
+          # Optional: bodyFile: path/to/release-notes.md  # If you want a custom release body from a file
+          # Optional: generateReleaseNotes: true  # Auto-generate release notes
+          # Optional: draft: true  # Mark as draft release
+          # Optional: prerelease: true  # Mark as pre-release
