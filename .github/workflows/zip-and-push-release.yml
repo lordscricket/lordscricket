@@ -1,6 +1,4 @@
 name: Push, creating an archive
-env:
-  GITHUB_TOKEN: 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
 on: [push]
 jobs:
   build:
