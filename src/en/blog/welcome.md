@@ -5,6 +5,7 @@ date: 1992-07-25T12:00:00
 author: Andrew Turner
 tags: 
     - intro
+    - blog
 #	- welcome
 ---
 ![alt text]({{ '/img/header.png' | url }})

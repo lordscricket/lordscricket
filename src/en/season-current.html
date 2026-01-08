@@ -1,5 +1,5 @@
 ---
-title: "Season"
+title: "Season 25-26"
 layout: "base.html"
 description: "2025-26 Season"
 ---
@@ -7,26 +7,30 @@ description: "2025-26 Season"
 <div class="container">
     <div class="row">
         <div class="col-8">
-<h2> 2025-26 Season Schedule </h2>
+<p><h2> 2025-26 Season Schedule </h2></p>
 <h3>
-<a href='https://www.dropbox.com/scl/fi/ohxzo1t5ikv0niof1xjq7/Lords-Cricket-2025-26-Schedule.pdf?rlkey=z9l7ja39ig4lmn47zz7jn8z0k&dl=0'>
-Season Schedule (view)</a>  ..  
-<p>  Season Schedule <a href='https://www.dropbox.com/scl/fi/ohxzo1t5ikv0niof1xjq7/Lords-Cricket-2025-26-Schedule.pdf?rlkey=z9l7ja39ig4lmn47zz7jn8z0k&dl=1'>
-(download)</a></p>
-</h3>
+<!-- Improve Spacing below -->
+    <p><a href='https://www.dropbox.com/scl/fi/ohxzo1t5ikv0niof1xjq7/Lords-Cricket-2025-26-Schedule.pdf?rlkey=z9l7ja39ig4lmn47zz7jn8z0k&dl=0'>
+    Season Schedule (view)</a>  ..</p>
+    <p>  Season Schedule <a href='https://www.dropbox.com/scl/fi/ohxzo1t5ikv0niof1xjq7/Lords-Cricket-2025-26-Schedule.pdf?rlkey=z9l7ja39ig4lmn47zz7jn8z0k&dl=1'>
+    (download)</a></p>
+    </h3>
 
 <ul><h5>14-Dec-2025 (<a href='/en/blog/2025-26/2025-12-14'>Match Report</a>)</h5>
 <li><a href='/stats/?game=116'> Waugh2000 defeated Bradman1948 by 4 runs </a></li>
 </ul>
             <h1>About Lords Cricket</h1>
             <p>
-						Green Ball cricket is fun!
+            Games are first-in best dressed; RSVP to the host. 10 players is ideal; 8 is the minimum.<p> Seasons scoreboard are an essential tool for competition; banter and controversy as well as much debate about the algorithms.</p>
             </p>
-
+    </div>
         <div class="col-4" style="padding: 2rem;">
             {% include "components/bio.html" %}
             <hr style="background-color: transparent">
-            {% include "components/latest-posts.html" %}
+            </div>
+<!-- These are WIP and are not properly dynamically generated -->
+        <div class="col-12" style="padding: 0px;">
+            {% include "components/latest-season25-26.html" %}
+            <p>{% include "components/latest-blogs.html" %}</p>
         </div>
-    </div>
 </div>
