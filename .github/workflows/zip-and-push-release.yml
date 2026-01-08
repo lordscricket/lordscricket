@@ -1,9 +1,5 @@
 name: Create Release with ZIP
-
-on:
-  push:
-
-
+on: [push]
 jobs:
   release:
     runs-on: ubuntu-latest
