@@ -120,15 +120,6 @@
     
        
         <url>
-            <loc>https://lordscricket.org.au/en/about/</loc>
-            
-            <lastmod>2026-01-08T21:54:49</lastmod>
-            
-        </url>
-        
-    
-       
-        <url>
             <loc>https://lordscricket.org.au/en/andrew/</loc>
             
             <lastmod>2026-01-08T21:54:59</lastmod>
@@ -159,6 +150,24 @@
             <loc>https://lordscricket.org.au/en/blog/announcement/</loc>
             
             <lastmod>2026-01-09T08:00:00</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://lordscricket.org.au/en/about/</loc>
+            
+            <lastmod>2026-01-09T08:34:41</lastmod>
+            
+        </url>
+        
+    
+       
+        <url>
+            <loc>https://lordscricket.org.au/en/column-test/</loc>
+            
+            <lastmod>2026-01-09T08:51:14</lastmod>
             
         </url>
         
