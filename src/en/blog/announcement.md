@@ -11,9 +11,9 @@ tags: [joshuam, whiteball, knightsholywicket, derby, announce, blog]
 <!-- ![cricket]({{ '/img/img-2504.jpg' | url }}) -->
 
 # Private Event
-###  From the creator of.. the ANZAC-Whack
+####  From the creator of.. the ANZAC-Whack
 ## Knights of The Holy Wicket brings to you...
-### Knights of the Holy Wicket v1.0 - A Birthday beginners bash Crazy cricket Do
+#### Knights of the Holy Wicket v1.0 - A Birthday beginners bash Crazy cricket Do
 
 Details:
 * Sunday 18th Jan 2026
@@ -30,7 +30,7 @@ Please place your expression of interest to my mobile:
 0452 Oh-Nine-Three 119
 Or
 lordscricket@yourgod.info
-![lordscricket@yourgod.info](mailto:lordscricket@yourgod.info)
+[lordscricket@yourgod.info](mailto:lordscricket@yourgod.info)
 
 This is a private function for my birthday; special guests will already be around for birthday celebrations.
 - \<JM\>
