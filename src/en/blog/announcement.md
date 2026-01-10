@@ -33,7 +33,7 @@ lordscricket@yourgod.info
 [lordscricket@yourgod.info](mailto:lordscricket@yourgod.info)
 
 This is a private function for my birthday; special guests will already be around for birthday celebrations.
-- \<JM\>
+\- \<JM\>
 
 ---
 
