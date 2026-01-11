@@ -1,9 +1,9 @@
 @import './variables';
 :root {
     --bg-color: #F3F6DC;
-    --bg-secondary-color: #f3f3f6;
+    --bg-secondary-color: #000000;
     --color-primary: #14854f;
-    --color-lightGrey: #95a08c;
+    --color-lightGrey: #3b643c;
     --color-grey: #747681;
     --color-darkGrey: #3f4144;
     --color-error: #d43939;
@@ -11,8 +11,6 @@
     --font-color: #161616;
     --navbar-bg-color: #235624;
     --footer-bg-color: #235624;
-    // --navbar-bg-color: #305B31;
-    // --footer-bg-color: #305B31;
     --transparent-error: rgba(255, 194, 204, 0.3);
     --transparent-success: rgba(145, 238, 145, 0.3);
     --link-color: #333333;
@@ -29,7 +27,7 @@
     --bg-color: #222222;
     --bg-secondary-color: #333333;
     --color-primary: #4cad7e;
-    --color-lightGrey: #606060;
+    --color-lightGrey: #2f5631;
     --color-grey: #747681;
     --color-darkGrey: #8794a8;
     --color-error: #d43939;
@@ -122,7 +120,7 @@ grid-template-rows: auto 1fr auto;
 
             .button {
                 background-color: var(--navbar-bg-color);
-                border-bottom: 2px solid var(--color-lightGrey);
+                border-bottom: 2px solid var(--color-darkGrey);
                 border-radius: 0%;
                 border-left: none;
                 border-right: none;
