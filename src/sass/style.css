@@ -19,7 +19,8 @@
   --grid-maxWidth: 120rem;
   --grid-gutter: 2rem;
   --font-size: 1.6rem;
-  --font-family-sans: sans-serif;
+  --font-family-serif: "Playfair Display", serif;
+  --font-family-sans: "Playfair Display", serif;
   --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
   --content-width: 75%;
 }
@@ -41,15 +42,22 @@
   --link-color: #dddddd;
 }
 
-h1, h2, h3, h4, h5 {
-  font-family: "Montagu Slab", serif;
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  line-height: 140%;
+  margin: 0 0 0.7em 0;
+}
+
+h2, h3, h4, h5 {
+  font-family: "Playfair Display", serif;
   line-height: 140%;
   margin: 0 0 0.7em 0;
 }
 
 h6 {
   font-size: 1.7rem;
-  font-family: "Montagu Slab", serif;
+  font-family: "Playfair Display", serif;
   font-weight: bold;
   margin: 0 0 0.6em 0;
 }
@@ -59,14 +67,14 @@ h6 {
 }
 
 body {
-  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", "sans-serif";
+  font-family: "Libre Baskerville", "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
   width: 100vw;
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
 }
 body nav {
-  font-family: "Montagu Slab", serif;
+  font-family: "Playfair Display", serif;
   width: 100% !important;
   margin-left: auto;
   margin-right: auto;
@@ -199,6 +207,7 @@ article {
 }
 .blog-single p {
   margin: 0;
+  font-family: "Libre Baskerville", "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
 }
 .blog-single .description {
   margin-top: 1rem;

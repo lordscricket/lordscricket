@@ -17,8 +17,8 @@
     --grid-maxWidth: 120rem;
     --grid-gutter: 2rem;
     --font-size: 1.6rem;
-    // --font-family-sans: "Montagu Slab", serif;
-    --font-family-sans: sans-serif;
+    --font-family-serif: "Playfair Display", serif;
+    --font-family-sans: "Playfair Display", serif;
     --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
     --content-width: 75%;
 }
@@ -42,7 +42,14 @@
     --link-color: #dddddd;
 }
 
-h1, h2, h3, h4, h5 {
+h1 {
+  font-family: $accent-font;
+  font-weight: bold;
+  line-height: 140%;
+  margin: 0 0 0.7em 0;
+}
+
+h2, h3, h4, h5 {
   font-family: $accent-font;
   line-height: 140%;
   margin: 0 0 0.7em 0;
@@ -218,6 +225,7 @@ article {
 
     p {
         margin: 0;
+        font-family: $main-font;
     }
 
     .description {
