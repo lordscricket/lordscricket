@@ -1,0 +1,18 @@
+<h2>Introduction</h2><p>A blog is basically made of a few static pages and many articles. Let's see then how we can create a new article in all that languages that our blog supports.</p><h2>Create the files</h2><p>This is probably one of the easiest things to do with the template. When we want to add posts, we juste create a file with the <strong>same name</strong> in <strong>every language directory</strong>. Let's say I want to post about dolphins in Arctic in my English / French blog. I will add the two following files:</p><pre class="language-plain" tabindex="0"><code class="language-plain">src
+ ├── (all files in src)
+ ├── en
+ │   ├── (all files in en)
+ │   └── blog
++│        └── dolphins-in-arctic.md
+ └── fr
+     ├── (all files in fr)
+     └── blog
++         └── dolphins-in-arctic.md</code></pre><p>The suggested format here is <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>, however other <a href="https://www.11ty.dev/docs/languages/">11ty supported formats</a> would also work.</p><h2>Add content to files</h2><p>In each newly added files, I can now add your content. But before all, the following front matter is expected:</p><pre class="language-plain" tabindex="0"><code class="language-plain">title: Dolphins in Arctic (To be translated in the fr directory)
+description: A blog post about dolphins in Arctic (To be translated in the fr directory)
+date: 2010-05-25T12:00:00
+update: 2023-05-28T12:00:00 (This one is optional, but if you are actually updating 
+an existing article, you can put the update date here)
+author: Author name here, that can be different from the src > _data > data.json > "author"
+tags: 
+    - dolphin (to be translated in the fr directory)
+    - Arctic (to be translated in the fr directory)</code></pre><p>For the rest, please note that:</p><ul><li>Eleventy will automatically add a level one title from front matter. You will then have to add level two and lower titles to keep a valid HTML;</li><li>Should you wish to include a link to another blog article, let's say example.md, you could use the following syntax: <code>[hyperlink text]({{ '/blog/example' | locale_url | url }})</code>;</li><li>Should you wish to include a link to a static blog resource (document, image...), you could use the following syntax: <code>![description de l'image]({{ '/img/image.png' | url }})</code>.</li></ul><p>Done ✅ my new posts is now available at https://&lt;my-domain&gt;/&lt;language&gt;/blog/dolphins-in-artic.</p><h2>Conclusion</h2><p>Through this example, we have added a new article to the blog. As you have seen, it takes only two steps, so you may quickly remember this by heart 😉</p>
