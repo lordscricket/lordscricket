@@ -1,6 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@400;700&display=swap');
+// Montagu (Serif, ~title-font) + Libre Baskerville (Serif; ~main-font) + PLayfair Display (Captions; motto; ~accent-font)
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-$main-font: 'Libre Baskerville', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+// Montagu Slab ONLY:
+// @import url('https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@400;700&display=swap');
+
+$main-font: 'Libre Baskerville', 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', serif;
+$title-font: 'Montagu Slab', serif;
 $accent-font: 'Playfair Display', serif;
 
 /* Colours */

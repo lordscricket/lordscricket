@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montagu+Slab:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&family=Montagu+Slab:opsz,wght@16..144,100..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
 /* Colours */
 /*========================================*/
 :root {
@@ -19,9 +19,9 @@
   --grid-maxWidth: 120rem;
   --grid-gutter: 2rem;
   --font-size: 1.6rem;
-  --font-family-serif: "Playfair Display", serif;
-  --font-family-sans: "Playfair Display", serif;
-  --font-family-mono: monaco, "Consolas", "Lucida Console", monospace;
+  --font-family-serif: "Libre Baskerville", Georgia, "Liberation Serif", "Times New Roman", serif;
+  --font-family-sans: "Playfair Display", "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  --font-family-mono: monaco, "Consolas", "Lucida Console", "Liberation Mono", monospace;
   --content-width: 75%;
 }
 
@@ -67,14 +67,14 @@ h6 {
 }
 
 body {
-  font-family: "Libre Baskerville", "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
+  font-family: "Libre Baskerville", "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", serif;
   width: 100vw;
   min-height: 100vh;
   display: grid;
   grid-template-rows: auto 1fr auto;
 }
 body nav {
-  font-family: "Playfair Display", serif;
+  font-family: "Montagu Slab", serif;
   width: 100% !important;
   margin-left: auto;
   margin-right: auto;
@@ -207,7 +207,7 @@ article {
 }
 .blog-single p {
   margin: 0;
-  font-family: "Libre Baskerville", "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
+  font-family: "Libre Baskerville", "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", serif;
 }
 .blog-single .description {
   margin-top: 1rem;
