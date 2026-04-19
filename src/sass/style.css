@@ -66,6 +66,7 @@ h6 {
   color: #a8a49a;
   font-family: "Montagu Slab", serif;
   font-weight: 215;
+  font-size: 2em;
 }
 
 .nav .motto {
@@ -171,7 +172,6 @@ code {
 .logo {
   margin: 0;
   font-weight: bold;
-  font-size: medium;
 }
 
 .content {
