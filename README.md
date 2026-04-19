@@ -23,7 +23,7 @@
 * Improve deployment (deployment bash script?) ![Done?] (badly)
 * ~~Update credits/acknowledgements/ /andrew (copy about section)~~
 * ~~Fix themes to be dynamic, removing static html code~~
-  - SASS seems easy to configure now I've spent some time in it
+  - ~~SASS seems easy to configure now I've spent some time in it~~
 [x] ~~Fix redirect~~
 
 # About / Credits (forked from [Polyglot-Tech-Blog](https://florent_tassy.gitlab.io/polyglot-tech-blog))
