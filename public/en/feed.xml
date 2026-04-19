@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://localhost:8080" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://lordscricket.org.au" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lords Cricket</title>
-    <link>http://localhost:8080/en/feed.xml</link>
-    <atom:link href="http://localhost:8080/en/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://lordscricket.org.au/en/feed.xml</link>
+    <atom:link href="https://lordscricket.org.au/en/feed.xml" rel="self" type="application/rss+xml"/>
     <description>English</description>
     <language>en</language>
     
@@ -11,15 +11,15 @@
       
       <item>
         <title>We played another April game of cricket</title>
-        <link>http://localhost:8080/en/blog/2025-26/2026-04-06/</link>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:8080/img/2025-26/img-260525.jpg&quot; alt=&quot;not Lords Cricket&quot; /&gt;
+        <link>https://lordscricket.org.au/en/blog/2025-26/2026-04-06/</link>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/new/img/2025-26/img-260525.jpg&quot; alt=&quot;not Lords Cricket&quot; /&gt;
 &lt;i&gt;a picture of ball hitting concrete, not Lords Cricket&lt;/i&gt;&lt;/p&gt;
 &lt;h1&gt;April PH-Whack - Another Edition&lt;/h1&gt;
 &lt;h2&gt;Green Ball Hits Concrete&lt;/h2&gt;
 &lt;h4&gt;6th April 2026 3pm&lt;/h4&gt;
 &lt;p&gt;A specially eventful cricket match spanning generations, seasons;
 pagelength &amp;amp; title-length. Led by Friend vs Friend to enable Brother v Brother(CN)
-and Husband v Wife(CN) Neighbour vs Neighbour, Isaac vs Isaac (* CN: &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2026-04-06/xkcd.com&quot;&gt;Citation Needed&lt;/a&gt;)&lt;/p&gt;
+and Husband v Wife(CN) Neighbour vs Neighbour, Isaac vs Isaac (* CN: &lt;a href=&quot;https://lordscricket.org.au/en/blog/2025-26/2026-04-06/xkcd.com&quot;&gt;Citation Needed&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Continuing a string of games with a debutante each game(CN), we welcomed J Miller&#39;s Next-Door neighbour Rapun to play. On the drive home he was already scheming new ways to analyse results &amp;amp; conditions to maximise individual stats. He&#39;s a &#39;truest&#39; Lords Cricketer now.&lt;/p&gt;
 &lt;p&gt;Chasing the sun and potential shadows given this game was the day after we wound our clocks backward, strict over limits were discussed and promptly forgotten (this game wasn&#39;t particularly warm and did not surpass 45 overs total)&lt;/p&gt;
 &lt;p&gt;&lt;u&gt;&lt;p&gt;&lt;/p&gt;
@@ -70,7 +70,7 @@ https://www.southernhighlandnews.com.au/story/3760753/is-this-australias-oldest-
 &lt;p&gt;&lt;!-- We have to multiply the number of posts by the number of languages --&gt;
 &lt;!-- e.g. if I want the last 3 posts with 2 languages, I limit to 6 here --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2026-04-06/&quot; property=&quot;url&quot;&gt;We played another April game of cricket&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2026-04-06/&quot; property=&quot;url&quot;&gt;We played another April game of cricket&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;2026-04-16T05:23:20&quot; property=&quot;datePublished&quot;&gt;
@@ -78,14 +78,14 @@ https://www.southernhighlandnews.com.au/story/3760753/is-this-australias-oldest-
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2026-04-06/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2026-04-06/&quot; style=&quot;text-decoration: none;&quot;&gt;
 Who did it best? April &#39;26 vs April &#39;25; for all the ANZACs
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;hr /&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;2025-12-24T12:00:00&quot; property=&quot;datePublished&quot;&gt;
@@ -93,14 +93,14 @@ Who did it best? April &#39;26 vs April &#39;25; for all the ANZACs
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
 Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;hr /&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;2025-04-25T12:00:00&quot; property=&quot;datePublished&quot;&gt;
@@ -108,14 +108,14 @@ Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
 ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;hr /&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/welcome/&quot; property=&quot;url&quot;&gt;Welcome!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/welcome/&quot; property=&quot;url&quot;&gt;Welcome!&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;1992-07-25T12:00:00&quot; property=&quot;datePublished&quot;&gt;
@@ -123,7 +123,7 @@ ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/welcome/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/welcome/&quot; style=&quot;text-decoration: none;&quot;&gt;
 25 July, 1992
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
@@ -133,7 +133,7 @@ ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
 </description>
         <pubDate>Thu, 16 Apr 2026 14:53:20 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-26/2026-04-06/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2026-04-06/</guid>
       </item>
       
     
@@ -141,7 +141,7 @@ ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
       
       <item>
         <title>Down to 2 balls, 4 runs and 5 fingers...</title>
-        <link>http://localhost:8080/en/blog/2025-26/2025-12-14/</link>
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</link>
         <description>&lt;head&gt;
     &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com/&quot; /&gt;
     &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com/&quot; crossorigin=&quot;&quot; /&gt;
@@ -151,7 +151,7 @@ ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
     &lt;div class=&quot;row&quot;&gt;
         &lt;div class=&quot;col&quot;&gt;
 						&lt;div style=&quot;text-align: center;&quot;&gt;
-  &lt;img src=&quot;http://localhost:8080/img/header.png&quot; alt=&quot;LordsCricket banner with green balls, maximums and maximum carnage&quot; /&gt; &lt;/div&gt;
+  &lt;img src=&quot;https://lordscricket.org.au/img/header.png&quot; alt=&quot;LordsCricket banner with green balls, maximums and maximum carnage&quot; /&gt; &lt;/div&gt;
 	&lt;br /&gt;
 
 &lt;div class=&quot;container&quot;&gt;
@@ -210,14 +210,14 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/div&gt;
 
         &lt;div class=&quot;col-4&quot; style=&quot;padding: 0rem;&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/img/2025-26/img-1412-1.jpg&quot; target=&quot;_blank&quot; title=&quot;Click to open in a new tab.&quot;&gt;&lt;img src=&quot;http://localhost:8080/img/2025-26/img-1412-1.jpg&quot; alt=&quot;Group Photo: 10 men wearing hats and running shoes, a canopy of gumtrees behind. Credit: Steph&quot; min-height=&quot;286&quot; /&gt;&lt;/a&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/img/2025-26/img-1412-1.jpg&quot; target=&quot;_blank&quot; title=&quot;Click to open in a new tab.&quot;&gt;&lt;img src=&quot;https://lordscricket.org.au/img/2025-26/img-1412-1.jpg&quot; alt=&quot;Group Photo: 10 men wearing hats and running shoes, a canopy of gumtrees behind. Credit: Steph&quot; min-height=&quot;286&quot; /&gt;&lt;/a&gt;
             &lt;hr style=&quot;background-color: transparent&quot; /&gt;
 
   &lt;div style=&quot;margin-top: 120px; text-align: center;&quot;&gt;
-    &lt;img src=&quot;http://localhost:8080/img/2025-26/gatting-bowled.webp&quot; alt=&quot;Mike Gatting with surprised look as a leg break beats him. Ian healy is jubilant in celebration behind an airborne cricket bail &quot; max-height=&quot;228&quot; width=&quot;186&quot; height=&quot;228&quot; style=&quot;display: inline-block;&quot; /&gt;
+    &lt;img src=&quot;https://lordscricket.org.au/img/2025-26/gatting-bowled.webp&quot; alt=&quot;Mike Gatting with surprised look as a leg break beats him. Ian healy is jubilant in celebration behind an airborne cricket bail &quot; max-height=&quot;228&quot; width=&quot;186&quot; height=&quot;228&quot; style=&quot;display: inline-block;&quot; /&gt;
     ↼ Gatting bowled. [poor depiction, Smith, I. 7 (6).]&lt;br /&gt;
 		&lt;/div&gt;
-&lt;img src=&quot;http://localhost:8080/img/2025-26/warne-gatting-celebrate.webp&quot; alt=&quot;Rear view of defeated gatting is shown behind his stumps, bail missing; Healy is approaching Shane Warne for a bear hug while Warne is looking joyous and surprised, celebrating with a curled fist to the skies.&quot; max-height=&quot;206&quot; /&gt;
+&lt;img src=&quot;https://lordscricket.org.au/img/2025-26/warne-gatting-celebrate.webp&quot; alt=&quot;Rear view of defeated gatting is shown behind his stumps, bail missing; Healy is approaching Shane Warne for a bear hug while Warne is looking joyous and surprised, celebrating with a curled fist to the skies.&quot; max-height=&quot;206&quot; /&gt;
  Warney celebrates [worse depiction, Miller, 1/29, 5ov.]&lt;!-- Wrap the bottom images + captions in a container and push it down --&gt;
 &lt;/div&gt;
 
@@ -233,7 +233,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2026-04-06/&quot; property=&quot;url&quot;&gt;We played another April game of cricket&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2026-04-06/&quot; property=&quot;url&quot;&gt;We played another April game of cricket&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -244,7 +244,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2026-04-06/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2026-04-06/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 Who did it best? April &amp;#39;26 vs April &amp;#39;25; for all the ANZACs
             &lt;/a&gt;
         &lt;/p&gt;
@@ -259,7 +259,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -270,7 +270,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
             &lt;/a&gt;
         &lt;/p&gt;
@@ -285,7 +285,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -296,7 +296,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
             &lt;/a&gt;
         &lt;/p&gt;
@@ -311,7 +311,7 @@ runs with a delivery spare.&lt;/p&gt;
     
 
     &lt;div typeof=&quot;BlogPosting&quot;&gt;
-        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/welcome/&quot; property=&quot;url&quot;&gt;Welcome!&lt;/a&gt;&lt;/h3&gt;
+        &lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/welcome/&quot; property=&quot;url&quot;&gt;Welcome!&lt;/a&gt;&lt;/h3&gt;
         &lt;p&gt;
             
             Date:
@@ -322,7 +322,7 @@ runs with a delivery spare.&lt;/p&gt;
         &lt;/p&gt;
 
         &lt;p property=&quot;abstract&quot;&gt;
-            &lt;a href=&quot;http://localhost:8080/en/blog/welcome/&quot; style=&quot;text-decoration: none;&quot;&gt;
+            &lt;a href=&quot;https://lordscricket.org.au/new/en/blog/welcome/&quot; style=&quot;text-decoration: none;&quot;&gt;
                 25 July, 1992
             &lt;/a&gt;
         &lt;/p&gt;
@@ -342,7 +342,7 @@ runs with a delivery spare.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;</description>
         <pubDate>Wed, 24 Dec 2025 22:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-26/2025-12-14/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-12-14/</guid>
       </item>
       
     
@@ -350,8 +350,8 @@ runs with a delivery spare.&lt;/p&gt;
       
       <item>
         <title>Green Ball Meets Multigenerational - ANZAC-Whack</title>
-        <link>http://localhost:8080/en/blog/2025-26/2025-04-25/</link>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:8080/img/img-2504.jpg&quot; alt=&quot;cricket&quot; /&gt;&lt;/p&gt;
+        <link>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</link>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/new/img/img-2504.jpg&quot; alt=&quot;cricket&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;ANZAC-Whack - First Edition&lt;/h1&gt;
 &lt;h2&gt;Green Ball Meets Multigenerational&lt;/h2&gt;
 &lt;p&gt;A specially eventful cricket match spanning generations, seasons;
@@ -563,7 +563,7 @@ thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;g
 &lt;p&gt;&lt;!-- We have to multiply the number of posts by the number of languages --&gt;
 &lt;!-- e.g. if I want the last 3 posts with 2 languages, I limit to 6 here --&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2026-04-06/&quot; property=&quot;url&quot;&gt;We played another April game of cricket&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2026-04-06/&quot; property=&quot;url&quot;&gt;We played another April game of cricket&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;2026-04-16T05:23:20&quot; property=&quot;datePublished&quot;&gt;
@@ -571,14 +571,14 @@ thanks to Andrew with the equipment and Pete with the smarts. - &amp;lt;JM&amp;g
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2026-04-06/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2026-04-06/&quot; style=&quot;text-decoration: none;&quot;&gt;
 Who did it best? April &#39;26 vs April &#39;25; for all the ANZACs
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;hr /&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; property=&quot;url&quot;&gt;Down to 2 balls, 4 runs and 5 fingers...&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;2025-12-24T12:00:00&quot; property=&quot;datePublished&quot;&gt;
@@ -586,14 +586,14 @@ Who did it best? April &#39;26 vs April &#39;25; for all the ANZACs
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-12-14/&quot; style=&quot;text-decoration: none;&quot;&gt;
 Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;hr /&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; property=&quot;url&quot;&gt;Green Ball Meets Multigenerational - ANZAC-Whack&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;2025-04-25T12:00:00&quot; property=&quot;datePublished&quot;&gt;
@@ -601,14 +601,14 @@ Sunday December 14th 2025, 4.30pm. St Peters Billabong Oval
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/2025-26/2025-04-25/&quot; style=&quot;text-decoration: none;&quot;&gt;
 ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;hr /&gt;
 &lt;/div&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div typeof=&quot;BlogPosting&quot;&gt;
-&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;http://localhost:8080/en/blog/welcome/&quot; property=&quot;url&quot;&gt;Welcome!&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 property=&quot;headline&quot;&gt;&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/welcome/&quot; property=&quot;url&quot;&gt;Welcome!&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;Date:
 &lt;time datetime=&quot;1992-07-25T12:00:00&quot; property=&quot;datePublished&quot;&gt;
@@ -616,7 +616,7 @@ ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
 &lt;/time&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p property=&quot;abstract&quot;&gt;
-&lt;a href=&quot;http://localhost:8080/en/blog/welcome/&quot; style=&quot;text-decoration: none;&quot;&gt;
+&lt;a href=&quot;https://lordscricket.org.au/new/en/blog/welcome/&quot; style=&quot;text-decoration: none;&quot;&gt;
 25 July, 1992
 &lt;/a&gt;
 &lt;/p&gt;&lt;p&gt;&lt;/p&gt;
@@ -626,7 +626,7 @@ ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
 </description>
         <pubDate>Fri, 25 Apr 2025 21:30:00 +0000</pubDate>
         <dc:creator>Joshua M</dc:creator>
-        <guid>http://localhost:8080/en/blog/2025-26/2025-04-25/</guid>
+        <guid>https://lordscricket.org.au/en/blog/2025-26/2025-04-25/</guid>
       </item>
       
     
@@ -634,15 +634,15 @@ ANZAC-Whack, 3:30pm, St Peters Reserve: bro v bro; sis v sis; husband v wife
       
       <item>
         <title>Welcome!</title>
-        <link>http://localhost:8080/en/blog/welcome/</link>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:8080/img/header.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+        <link>https://lordscricket.org.au/en/blog/welcome/</link>
+        <description>&lt;p&gt;&lt;img src=&quot;https://lordscricket.org.au/new/img/header.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 &lt;h1&gt;&amp;lt;&amp;lt;&amp;lt; Click on a match date to sign up to play&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;Comments off&lt;/code&gt;&lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
 </description>
         <pubDate>Sat, 25 Jul 1992 21:30:00 +0000</pubDate>
         <dc:creator>Andrew Turner</dc:creator>
-        <guid>http://localhost:8080/en/blog/welcome/</guid>
+        <guid>https://lordscricket.org.au/en/blog/welcome/</guid>
       </item>
       
     
