@@ -68,6 +68,13 @@ h6 {
   font-weight: 215;
 }
 
+.nav .motto {
+  font-weight: 400;
+  line-height: 1.1;
+  font-size: 1.6rem;
+  font-family: "Playfair Display", serif;
+}
+
 body {
   font-family: "Libre Baskerville", "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", serif;
   width: 100vw;

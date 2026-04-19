@@ -66,6 +66,15 @@ h6 {
     font-family: $title-font;
     font-weight: 215;
 }
+.nav .motto {
+  font-weight: 400;
+  // margin: 0;                    // remove default paragraph margin if needed
+  line-height: 1.1;
+  font-size: 1.6rem;
+  // text-align: center;           // adjust as needed
+
+  font-family: $accent-font;
+}
 body {
 font-family: $main-font;
 width: 100vw;
