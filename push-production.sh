@@ -8,4 +8,5 @@ if [ "$1" != "/now" ]; then
     sleep 6
 fi
 npm run clean && npm run manual:build
+git commit -m src/_data/data/data.json
 # git push origin main
