@@ -1,5 +1,5 @@
 module.exports = {
-    baseUrl: "https://lordscricket.org.au/new",
-    pathPrefix: "new"
+    baseUrl: "https://lordscricket.org.au",
+    pathPrefix: ""
 };
 
